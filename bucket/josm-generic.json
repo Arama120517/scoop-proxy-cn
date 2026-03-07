@@ -8,7 +8,7 @@
   },
   "url": [
     "https://josm.openstreetmap.de/download/josm-snapshot-19481.jar",
-    "https://raw.githubusercontent.com/openstreetmap/josm/master/native/windows/logo.ico"
+    "https://gh-proxy.org/https://raw.githubusercontent.com/openstreetmap/josm/master/native/windows/logo.ico"
   ],
   "hash": [
     "1e5dd927855653bc6d85eb387714b54c53cc1561907c2fe437b046135d11b85e",

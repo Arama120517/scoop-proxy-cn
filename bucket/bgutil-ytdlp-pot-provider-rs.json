@@ -11,8 +11,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs/releases/download/v0.7.1/bgutil-pot-windows-x86_64.exe#/bgutil-pot.exe",
-        "https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs/releases/download/v0.7.1/bgutil-ytdlp-pot-provider-rs.zip"
+        "https://gh-proxy.org/https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs/releases/download/v0.7.1/bgutil-pot-windows-x86_64.exe#/bgutil-pot.exe",
+        "https://gh-proxy.org/https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs/releases/download/v0.7.1/bgutil-ytdlp-pot-provider-rs.zip"
       ],
       "hash": [
         "c4d1885bb34b61f91e5799b60eae03c8334d50880c5b6e2ea02389560fd41506",
@@ -35,8 +35,8 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs/releases/download/v$version/bgutil-pot-windows-x86_64.exe#/bgutil-pot.exe",
-          "https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs/releases/download/v$version/bgutil-ytdlp-pot-provider-rs.zip"
+          "https://gh-proxy.org/https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs/releases/download/v$version/bgutil-pot-windows-x86_64.exe#/bgutil-pot.exe",
+          "https://gh-proxy.org/https://github.com/jim60105/bgutil-ytdlp-pot-provider-rs/releases/download/v$version/bgutil-ytdlp-pot-provider-rs.zip"
         ]
       }
     }

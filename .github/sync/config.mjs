@@ -17,7 +17,7 @@ export const CONFIG = {
   /** 是否仅同步，不处理 URL 镜像代理站替换 */
   onlySync: argv.includes('--only-sync'),
   tmpDir: path.resolve(rootDir, 'tmp'),
-  ghproxy: 'https://gh-proxy.org', // 'https://github.moeyy.xyz',
+  ghproxy: 'https://v6.gh-proxy.org', // 'https://github.moeyy.xyz',
   // ghproxy: 'https://mirror.ghproxy.com',
   // ghproxy: 'https://www.ghproxy.cc',
   // ghproxy: 'https://ghps.cc',
