@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/emilevr/space/releases/download/1.1.6/space-x86_64-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/emilevr/space/releases/download/1.1.6/space-x86_64-pc-windows-msvc.zip",
       "hash": "2202f0887c82742a12add16c4cd0b3080533590ab52fb49705018d7aa2fc83bb"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/emilevr/space/releases/download/$version/space-x86_64-pc-windows-msvc.zip",
+        "url": "https://v6.gh-proxy.org/https://github.com/emilevr/space/releases/download/$version/space-x86_64-pc-windows-msvc.zip",
         "hash": {
           "url": "$url.sha256"
         }

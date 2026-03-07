@@ -5,7 +5,7 @@
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/egoist/chatwise-releases/releases/download/v0.10.7/ChatWise_0.10.7_x64-setup.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/egoist/chatwise-releases/releases/download/v0.10.7/ChatWise_0.10.7_x64-setup.exe#/dl.7z",
       "hash": "37c59617fc238bfe59e1a017aad4fe7e6217401ef82cf0769c80e2e1332fb083"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/egoist/chatwise-releases/releases/download/v$version/ChatWise_$version_x64-setup.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/egoist/chatwise-releases/releases/download/v$version/ChatWise_$version_x64-setup.exe#/dl.7z"
       }
     }
   }

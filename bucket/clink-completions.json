@@ -6,7 +6,7 @@
   "suggest": {
     "Clink": "clink"
   },
-  "url": "https://gh-proxy.org/https://github.com/vladimir-kotikov/clink-completions/archive/v0.6.8.zip",
+  "url": "https://v6.gh-proxy.org/https://github.com/vladimir-kotikov/clink-completions/archive/v0.6.8.zip",
   "hash": "92800a74b8360bfd9e1e10b89c96f7345172a701537ce52a550a16f92f1beac6",
   "extract_dir": "clink-completions-0.6.8",
   "installer": {
@@ -29,7 +29,7 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/vladimir-kotikov/clink-completions/archive/v$version.zip",
+    "url": "https://v6.gh-proxy.org/https://github.com/vladimir-kotikov/clink-completions/archive/v$version.zip",
     "extract_dir": "clink-completions-$version"
   }
 }

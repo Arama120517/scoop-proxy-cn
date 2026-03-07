@@ -13,7 +13,7 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/hooke007/mpv_PlayKit/releases/download/20260210/mpv-lazy-20260210.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/hooke007/mpv_PlayKit/releases/download/20260210/mpv-lazy-20260210.exe#/dl.7z",
       "hash": "3bf809718be71c4c7b7226041633a4ec03a60f4546fbbfb42ec0faed075a7cd4",
       "extract_dir": "mpv-lazy"
     }
@@ -32,7 +32,7 @@
     "github": "https://github.com/hooke007/mpv_PlayKit"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/hooke007/mpv_PlayKit/releases/download/$version/mpv-lazy-$version.exe#/dl.7z",
+    "url": "https://v6.gh-proxy.org/https://github.com/hooke007/mpv_PlayKit/releases/download/$version/mpv-lazy-$version.exe#/dl.7z",
     "hash": {
       "mode": "extract",
       "url": "https://github.com/hooke007/mpv_PlayKit/releases/expanded_assets/$version",

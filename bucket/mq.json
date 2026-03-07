@@ -3,7 +3,7 @@
   "description": "jq-like CLI for Markdown processing",
   "homepage": "https://mqlang.org/",
   "license": "MIT",
-  "url": "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.5.17/mq-x86_64-pc-windows-msvc.exe#/mq.exe",
+  "url": "https://v6.gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.5.17/mq-x86_64-pc-windows-msvc.exe#/mq.exe",
   "hash": "ea4bb1af45d9bb6ca4d399879d9414e3c432a6f82efb899c5b9314cd3b3d894d",
   "bin": "mq.exe",
   "suggest": {
@@ -18,6 +18,6 @@
     "github": "https://github.com/harehare/mq"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-x86_64-pc-windows-msvc.exe#/mq.exe"
+    "url": "https://v6.gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-x86_64-pc-windows-msvc.exe#/mq.exe"
   }
 }

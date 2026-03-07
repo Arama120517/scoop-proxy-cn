@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/clangd/clangd/releases/download/21.1.8/clangd-windows-21.1.8.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/clangd/clangd/releases/download/21.1.8/clangd-windows-21.1.8.zip",
       "hash": "aeb5a68414c4d10b0867a479c9f21593043cc6d122e39de61b3801c89ebd57fc",
       "extract_dir": "clangd_21.1.8"
     }
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/clangd/clangd/releases/download/$version/clangd-windows-$version.zip",
+        "url": "https://v6.gh-proxy.org/https://github.com/clangd/clangd/releases/download/$version/clangd-windows-$version.zip",
         "extract_dir": "clangd_$version"
       }
     }

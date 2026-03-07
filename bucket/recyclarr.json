@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/recyclarr/recyclarr/releases/download/v8.4.0/recyclarr-win-x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/recyclarr/recyclarr/releases/download/v8.4.0/recyclarr-win-x64.zip",
       "hash": "d2805da79dc60a1e144860b643d37e6e5284d41d4e788cbb747c31bb16bd6596"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/recyclarr/recyclarr/releases/download/v8.4.0/recyclarr-win-arm64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/recyclarr/recyclarr/releases/download/v8.4.0/recyclarr-win-arm64.zip",
       "hash": "0804fe6b4457752a3c8ac8231c1d84106b6d581cec19e0b39c1f79626c24d725"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/recyclarr/recyclarr/releases/download/v$version/recyclarr-win-x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/recyclarr/recyclarr/releases/download/v$version/recyclarr-win-x64.zip"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/recyclarr/recyclarr/releases/download/v$version/recyclarr-win-arm64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/recyclarr/recyclarr/releases/download/v$version/recyclarr-win-arm64.zip"
       }
     }
   }

@@ -6,7 +6,7 @@
     "identifier": "GPL-3.0 license",
     "url": "https://github.com/renmu123/biliLive-tools#GPL-3.0-1-ov-file"
   },
-  "url": "https://gh-proxy.org/https://github.com/renmu123/biliLive-tools/releases/download/3.9.1/biliLive-tools-3.9.1-win-x64.exe#/dl.7z",
+  "url": "https://v6.gh-proxy.org/https://github.com/renmu123/biliLive-tools/releases/download/3.9.1/biliLive-tools-3.9.1-win-x64.exe#/dl.7z",
   "hash": "e725fe69b7a58f132b98f11a3aac9bdacdd346423aa67bd8dc686679661ffad8",
   "pre_install": [
     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -33,6 +33,6 @@
     "regex": "/releases/tag/([\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/renmu123/biliLive-tools/releases/download/$version/biliLive-tools-$version-win-x64.exe#/dl.7z"
+    "url": "https://v6.gh-proxy.org/https://github.com/renmu123/biliLive-tools/releases/download/$version/biliLive-tools-$version-win-x64.exe#/dl.7z"
   }
 }

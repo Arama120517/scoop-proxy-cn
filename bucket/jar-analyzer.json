@@ -4,7 +4,7 @@
   "homepage": "https://github.com/jar-analyzer/jar-analyzer",
   "license": "Freeware",
   "notes": "https://github.com/ViCrack/scoop-bucket/blob/master/bucket/jar-analyzer.json",
-  "url": "https://gh-proxy.org/https://github.com/jar-analyzer/jar-analyzer/releases/download/5.15/jar-analyzer-5.15-windows-full.zip",
+  "url": "https://v6.gh-proxy.org/https://github.com/jar-analyzer/jar-analyzer/releases/download/5.15/jar-analyzer-5.15-windows-full.zip",
   "hash": "bcc04193e94ddafce09e6cde772f114d710463cd3aaf1d99a8e74902b12718bb",
   "pre_install": "if (!(Test-Path \"$persist_dir\\jar-analyzer.db\")) { New-Item \"$dir\\jar-analyzer.db\"  -ItemType File | Out-Null }",
   "shortcuts": [
@@ -17,7 +17,7 @@
   "extract_dir": "jar-analyzer-5.15-windows-full",
   "checkver": "github",
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/jar-analyzer/jar-analyzer/releases/download/$version/jar-analyzer-$version-windows-full.zip",
+    "url": "https://v6.gh-proxy.org/https://github.com/jar-analyzer/jar-analyzer/releases/download/$version/jar-analyzer-$version-windows-full.zip",
     "extract_dir": "jar-analyzer-$version-windows-full"
   }
 }

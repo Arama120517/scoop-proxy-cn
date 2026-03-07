@@ -5,7 +5,7 @@
   "version": "0.28.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/moby/buildkit/releases/download/v0.28.0/buildkit-v0.28.0.windows-amd64.tar.gz",
+      "url": "https://v6.gh-proxy.org/https://github.com/moby/buildkit/releases/download/v0.28.0/buildkit-v0.28.0.windows-amd64.tar.gz",
       "hash": "601d2cc904e2622a6cf582fb48786224c143fd23a732be0e1d58948fa64c1214"
     }
   },
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/moby/buildkit/releases/download/v$version/buildkit-v$version.windows-amd64.tar.gz"
+        "url": "https://v6.gh-proxy.org/https://github.com/moby/buildkit/releases/download/v$version/buildkit-v$version.windows-amd64.tar.gz"
       }
     }
   }

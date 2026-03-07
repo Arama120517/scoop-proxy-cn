@@ -6,7 +6,7 @@
   "suggest": {
     "Git": "git"
   },
-  "url": "https://gh-proxy.org/https://github.com/microsoft/vcpkg/archive/refs/tags/2026.02.27.zip",
+  "url": "https://v6.gh-proxy.org/https://github.com/microsoft/vcpkg/archive/refs/tags/2026.02.27.zip",
   "hash": "792b608bb511d350cbb5cb6175728f98490370b3ed45327b90b5a922cdde6094",
   "extract_dir": "vcpkg-2026.02.27",
   "pre_install": [
@@ -49,7 +49,7 @@
     "github": "https://github.com/microsoft/vcpkg/"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/microsoft/vcpkg/archive/refs/tags/$version.zip",
+    "url": "https://v6.gh-proxy.org/https://github.com/microsoft/vcpkg/archive/refs/tags/$version.zip",
     "extract_dir": "vcpkg-$version"
   }
 }

@@ -6,9 +6,9 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-x86_64-pc-windows-msvc.exe#/codex.exe",
-        "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-command-runner-x86_64-pc-windows-msvc.exe#/codex-command-runner.exe",
-        "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe#/codex-windows-sandbox-setup.exe"
+        "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-x86_64-pc-windows-msvc.exe#/codex.exe",
+        "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-command-runner-x86_64-pc-windows-msvc.exe#/codex-command-runner.exe",
+        "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe#/codex-windows-sandbox-setup.exe"
       ],
       "hash": [
         "13cefa7245ce3b8ce5d9fd63fd6cbd4717b14fc117b265e93a8a93f17281f233",
@@ -18,9 +18,9 @@
     },
     "arm64": {
       "url": [
-        "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-aarch64-pc-windows-msvc.exe#/codex.exe",
-        "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-command-runner-aarch64-pc-windows-msvc.exe#/codex-command-runner.exe",
-        "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe#/codex-windows-sandbox-setup.exe"
+        "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-aarch64-pc-windows-msvc.exe#/codex.exe",
+        "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-command-runner-aarch64-pc-windows-msvc.exe#/codex-command-runner.exe",
+        "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v0.111.0/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe#/codex-windows-sandbox-setup.exe"
       ],
       "hash": [
         "a733add129797094ab5df3605f094bf26522ac3d32af6db620dc53e7388b1bdc",
@@ -43,16 +43,16 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-x86_64-pc-windows-msvc.exe#/codex.exe",
-          "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-command-runner-x86_64-pc-windows-msvc.exe#/codex-command-runner.exe",
-          "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe#/codex-windows-sandbox-setup.exe"
+          "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-x86_64-pc-windows-msvc.exe#/codex.exe",
+          "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-command-runner-x86_64-pc-windows-msvc.exe#/codex-command-runner.exe",
+          "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe#/codex-windows-sandbox-setup.exe"
         ]
       },
       "arm64": {
         "url": [
-          "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-aarch64-pc-windows-msvc.exe#/codex.exe",
-          "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-command-runner-aarch64-pc-windows-msvc.exe#/codex-command-runner.exe",
-          "https://gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe#/codex-windows-sandbox-setup.exe"
+          "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-aarch64-pc-windows-msvc.exe#/codex.exe",
+          "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-command-runner-aarch64-pc-windows-msvc.exe#/codex-command-runner.exe",
+          "https://v6.gh-proxy.org/https://github.com/openai/codex/releases/download/rust-v$version/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe#/codex-windows-sandbox-setup.exe"
         ]
       }
     }

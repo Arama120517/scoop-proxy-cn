@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Epistates/treemd/releases/download/v0.5.9/treemd-x86_64-pc-windows-msvc.exe.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/Epistates/treemd/releases/download/v0.5.9/treemd-x86_64-pc-windows-msvc.exe.zip",
       "hash": "fdb46f48c0c486a273c1ace04e97f605cda08c32468e646e6ffca8004d5aaa4a"
     }
   },
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Epistates/treemd/releases/download/v$version/treemd-x86_64-pc-windows-msvc.exe.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/Epistates/treemd/releases/download/v$version/treemd-x86_64-pc-windows-msvc.exe.zip"
       }
     },
     "hash": {

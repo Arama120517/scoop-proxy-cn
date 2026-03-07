@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/KaringX/karing/releases/download/v1.2.15.1806/karing_1.2.15.1806_windows_x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/KaringX/karing/releases/download/v1.2.15.1806/karing_1.2.15.1806_windows_x64.zip",
       "hash": "698d5fab0f08d7143e9c888cc1e1a4e1890840494672dd91f726ef158a89bd2b"
     }
   },
@@ -42,7 +42,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/KaringX/karing/releases/download/v$version/karing_$version_windows_x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/KaringX/karing/releases/download/v$version/karing_$version_windows_x64.zip"
       }
     }
   }

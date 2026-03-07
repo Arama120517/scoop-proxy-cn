@@ -9,15 +9,15 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/j178/prek/releases/download/v0.3.4/prek-x86_64-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/j178/prek/releases/download/v0.3.4/prek-x86_64-pc-windows-msvc.zip",
       "hash": "21c6e119d58443a696bd585946a6fac8fa0b918a2d975f623157c3f72994a2f3"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/j178/prek/releases/download/v0.3.4/prek-i686-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/j178/prek/releases/download/v0.3.4/prek-i686-pc-windows-msvc.zip",
       "hash": "d997133b64dc8d5a90c6dbe361e6867d8366cc77bb29093a22b2d6dcc75fc6f1"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/j178/prek/releases/download/v0.3.4/prek-aarch64-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/j178/prek/releases/download/v0.3.4/prek-aarch64-pc-windows-msvc.zip",
       "hash": "3ecf22c863de4d054b14c70fb7b6a3ead17de5b8e40e36c24f76b5aa13b03664"
     }
   },
@@ -26,13 +26,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/j178/prek/releases/download/v$version/prek-x86_64-pc-windows-msvc.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/j178/prek/releases/download/v$version/prek-x86_64-pc-windows-msvc.zip"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/j178/prek/releases/download/v$version/prek-i686-pc-windows-msvc.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/j178/prek/releases/download/v$version/prek-i686-pc-windows-msvc.zip"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/j178/prek/releases/download/v$version/prek-aarch64-pc-windows-msvc.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/j178/prek/releases/download/v$version/prek-aarch64-pc-windows-msvc.zip"
       }
     },
     "hash": {

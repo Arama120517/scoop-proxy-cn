@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Auto-Plugin/milkup/releases/download/Beta-v0.4.12/milkup.Setup.0.4.12.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/Auto-Plugin/milkup/releases/download/Beta-v0.4.12/milkup.Setup.0.4.12.exe#/dl.7z",
       "hash": "101f39cf8283cfbe9319ef61d13878671a5c8640fb14c3a148cac1e9b3baebe1",
       "installer": {
         "script": [
@@ -29,7 +29,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Auto-Plugin/milkup/releases/download/Beta-v$version/milkup.Setup.$version.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/Auto-Plugin/milkup/releases/download/Beta-v$version/milkup.Setup.$version.exe#/dl.7z"
       }
     }
   }

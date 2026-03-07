@@ -6,7 +6,7 @@
     "identifier": "MIT license",
     "url": "https://github.com/jark006/FtpServer#MIT-1-ov-file"
   },
-  "url": "https://gh-proxy.org/https://github.com/jark006/FtpServer/releases/download/v1.24/ftpServer.exe",
+  "url": "https://v6.gh-proxy.org/https://github.com/jark006/FtpServer/releases/download/v1.24/ftpServer.exe",
   "hash": "296a1d7b57328fe8c81c2a88976fc69f8c8f1ad5780e932167c12aae6cc55dc8",
   "bin": "ftpServer.exe",
   "shortcuts": [
@@ -20,6 +20,6 @@
     "regex": "/releases/tag/v([\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/jark006/FtpServer/releases/download/v$version/ftpServer.exe"
+    "url": "https://v6.gh-proxy.org/https://github.com/jark006/FtpServer/releases/download/v$version/ftpServer.exe"
   }
 }

@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v2.5.1/Escrcpy-2.5.1-win-portable-x64.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v2.5.1/Escrcpy-2.5.1-win-portable-x64.exe#/dl.7z",
       "hash": "4c0700bc209da291dbf3fd66b087003f7aa25609b8a0cde6281ee893e8105319",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -16,7 +16,7 @@
       ]
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v2.5.1/Escrcpy-2.5.1-win-portable-arm64.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v2.5.1/Escrcpy-2.5.1-win-portable-arm64.exe#/dl.7z",
       "hash": "2f23715ed22f497cc25921d67b533fb402b32ea94627232dad1f6cb0863fa066",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
@@ -46,10 +46,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v$version/Escrcpy-$version-win-portable-x64.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v$version/Escrcpy-$version-win-portable-x64.exe#/dl.7z"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v$version/Escrcpy-$version-win-portable-arm64.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v$version/Escrcpy-$version-win-portable-arm64.exe#/dl.7z"
       }
     }
   }

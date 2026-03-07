@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/OpenBB-finance/OpenBB/releases/download/Open-Data-Platform-v1.0.1/Open-Data-Platform_1.0.1_x86_64.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/OpenBB-finance/OpenBB/releases/download/Open-Data-Platform-v1.0.1/Open-Data-Platform_1.0.1_x86_64.exe#/dl.7z",
       "hash": "b71fa1fff9a621d4e37de6dcf59af09bcb4b733718283b3f1c699b539c059fd8"
     }
   },
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/OpenBB-finance/OpenBB/releases/download/Open-Data-Platform-v$version/Open-Data-Platform_$version_x86_64.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/OpenBB-finance/OpenBB/releases/download/Open-Data-Platform-v$version/Open-Data-Platform_$version_x86_64.exe#/dl.7z"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/jenkins-x/jx/releases/download/v3.16.56/jx-windows-amd64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/jenkins-x/jx/releases/download/v3.16.56/jx-windows-amd64.zip",
       "hash": "139139c4647b88f9c75b86b2937fcfb704a112c6771e0e82be215953d0b9266c"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/jenkins-x/jx/releases/download/v$version/jx-windows-amd64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/jenkins-x/jx/releases/download/v$version/jx-windows-amd64.zip"
       }
     },
     "hash": {

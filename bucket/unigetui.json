@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/marticliment/UniGetUI/releases/download/3.3.7/UniGetUI.x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/marticliment/UniGetUI/releases/download/3.3.7/UniGetUI.x64.zip",
       "hash": "3f1a5347868dc6136e5c87d1ba803781ffe03ed5c2ec8cf138c5490c5fbce46b"
     }
   },
@@ -26,7 +26,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/marticliment/UniGetUI/releases/download/$version/UniGetUI.x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/marticliment/UniGetUI/releases/download/$version/UniGetUI.x64.zip"
       }
     },
     "hash": {

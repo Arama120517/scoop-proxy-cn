@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/chawyehsu/moonup/releases/download/v0.4.3/moonup-x86_64-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/chawyehsu/moonup/releases/download/v0.4.3/moonup-x86_64-pc-windows-msvc.zip",
       "hash": "ffaa7c6ffbd50fea810413254afb67fef4102e2a13fd0c1024e9f3fb8725487e"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/chawyehsu/moonup/releases/download/v$version/moonup-x86_64-pc-windows-msvc.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/chawyehsu/moonup/releases/download/v$version/moonup-x86_64-pc-windows-msvc.zip"
       }
     },
     "hash": {

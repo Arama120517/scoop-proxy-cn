@@ -5,7 +5,7 @@
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Mercury13/unicodia/releases/download/v3.1.1/Unicodia-w64-3.1.1.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/Mercury13/unicodia/releases/download/v3.1.1/Unicodia-w64-3.1.1.7z",
       "hash": "c03b947a78ad3216491446b5ac581bf7a22d3e0a33c08e710137561ee805a234"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Mercury13/unicodia/releases/download/v$version/Unicodia-w64-$version.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/Mercury13/unicodia/releases/download/v$version/Unicodia-w64-$version.7z"
       }
     }
   }

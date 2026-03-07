@@ -8,15 +8,15 @@
   },
   "architecture": {
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v3.1.53/gk_3.1.53_windows_386.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v3.1.53/gk_3.1.53_windows_386.zip",
       "hash": "cc1652f5a19922f1c91ec6345e37c23a018006a07102f0d06a6ac1eae46e201d"
     },
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v3.1.53/gk_3.1.53_windows_amd64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v3.1.53/gk_3.1.53_windows_amd64.zip",
       "hash": "ce31f6c909a558a440c47994dc7f303600356aad1c63904466041898020018b1"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v3.1.53/gk_3.1.53_windows_arm64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v3.1.53/gk_3.1.53_windows_arm64.zip",
       "hash": "88995c0dd01083b55c4fe36fdf254fa8bfc2ce69a512ea530d844c56004c339b"
     }
   },
@@ -27,13 +27,13 @@
   "autoupdate": {
     "architecture": {
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_386.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_386.zip"
       },
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_amd64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_arm64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_arm64.zip"
       }
     },
     "hash": {

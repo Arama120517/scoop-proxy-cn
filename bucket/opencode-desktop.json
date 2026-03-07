@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v1.2.20/opencode-desktop-windows-x64.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v1.2.20/opencode-desktop-windows-x64.exe#/dl.7z",
       "hash": "e6aee70be8fda19893e9e186658adfa68dc5bb9efc25a8829a78986cc5bbe2db"
     }
   },
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v$version/opencode-desktop-windows-x64.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v$version/opencode-desktop-windows-x64.exe#/dl.7z"
       }
     }
   }

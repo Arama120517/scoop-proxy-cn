@@ -5,7 +5,7 @@
   "version": "0.12.4",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/Install-TidGi-Windows-x64.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/Install-TidGi-Windows-x64.exe#/dl.7z",
       "hash": "14d0389ffd016cf698416bdea739566511f4dbd7621ec0b8e2c258c4bfc90778"
     }
   },
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v$version/Install-TidGi-Windows-x64.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v$version/Install-TidGi-Windows-x64.exe#/dl.7z"
       }
     }
   }

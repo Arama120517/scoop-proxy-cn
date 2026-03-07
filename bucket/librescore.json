@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/LibreScore/app-librescore/releases/download/v6.0.22/LibreScoreInno.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/LibreScore/app-librescore/releases/download/v6.0.22/LibreScoreInno.exe",
       "hash": "93c73cf70da4a0fe31ecd2257b481f9b6b750a339b4000539b4ad95da368b085"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/LibreScore/app-librescore/releases/download/v$version/LibreScoreInno.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/LibreScore/app-librescore/releases/download/v$version/LibreScoreInno.exe"
       }
     }
   }

@@ -6,7 +6,7 @@
     "identifier": "AGPL-3.0 license",
     "url": "https://github.com/imsyy/SPlayer#AGPL-3.0-1-ov-file"
   },
-  "url": "https://gh-proxy.org/https://github.com/imsyy/SPlayer/releases/download/v3.0.0-nightly/SPlayer-3.0.0-nightly.20260306.eaf43b4-setup.exe#/dl.7z",
+  "url": "https://v6.gh-proxy.org/https://github.com/imsyy/SPlayer/releases/download/v3.0.0-nightly/SPlayer-3.0.0-nightly.20260306.eaf43b4-setup.exe#/dl.7z",
   "hash": "sha512:aab550d7249a508127a2bc34174d7d6aceab013a12bbfa9ebdda7a34f2ae5d07c7203d576ab2514955b2284bf2d9abcf847402122e032b52bf29020834c5b6f0",
   "architecture": {
     "64bit": {
@@ -49,7 +49,7 @@
     "regex": "/releases/download/v(?<tag>[\\d.]+-[\\w.]+)/SPlayer-([\\d.]+-[\\w.]+)-setup\\.exe"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/imsyy/SPlayer/releases/download/v$matchTag/SPlayer-$version-setup.exe#/dl.7z",
+    "url": "https://v6.gh-proxy.org/https://github.com/imsyy/SPlayer/releases/download/v$matchTag/SPlayer-$version-setup.exe#/dl.7z",
     "hash": {
       "url": "$baseurl/latest.yml",
       "regex": "(?sm)$basename.*?sha512:\\s+$base64"

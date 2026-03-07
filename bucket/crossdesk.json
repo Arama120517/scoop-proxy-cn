@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/kunkundi/crossdesk/releases/download/v1.2.4-20260213-42506b8/crossdesk-win-x64-v1.2.4-20260213-42506b8.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/kunkundi/crossdesk/releases/download/v1.2.4-20260213-42506b8/crossdesk-win-x64-v1.2.4-20260213-42506b8.exe#/dl.7z",
       "hash": "ca9fa1e7b3aba91641e82895a078eff2c46673e851b4c60e69a3583abb69e692",
       "pre_install": [
         "Move-Item \"$dir\\`$APPDATA\\CrossDesk\" \"$dir\"",
@@ -46,7 +46,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/kunkundi/crossdesk/releases/download/v$version/crossdesk-win-x64-v$version.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/kunkundi/crossdesk/releases/download/v$version/crossdesk-win-x64-v$version.exe#/dl.7z"
       }
     }
   }

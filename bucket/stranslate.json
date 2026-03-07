@@ -11,7 +11,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/STranslate/STranslate/releases/download/v2.0.5/STranslate-win-Portable.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/STranslate/STranslate/releases/download/v2.0.5/STranslate-win-Portable.zip",
       "hash": "98d38304c57c80159d4f6733e4591b18db8a51887bd08711493a10b7ae292b79"
     }
   },
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/STranslate/STranslate/releases/download/v$version/STranslate-win-Portable.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/STranslate/STranslate/releases/download/v$version/STranslate-win-Portable.zip"
       }
     }
   }

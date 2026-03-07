@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/hymkor/csvi/releases/download/v1.22.0/csvi-v1.22.0-windows-amd64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/hymkor/csvi/releases/download/v1.22.0/csvi-v1.22.0-windows-amd64.zip",
       "hash": "c93672f23a9fc0c3baf2fd04bbcd2671cfaa39258645044cfc0ef03f69a799b1"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/hymkor/csvi/releases/download/v1.22.0/csvi-v1.22.0-windows-386.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/hymkor/csvi/releases/download/v1.22.0/csvi-v1.22.0-windows-386.zip",
       "hash": "904ba7ee49afc6b9180a928ba7aee910970bf06125a32dd346513643f0118a87"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/hymkor/csvi/releases/download/v$version/csvi-v$version-windows-amd64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/hymkor/csvi/releases/download/v$version/csvi-v$version-windows-amd64.zip"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/hymkor/csvi/releases/download/v$version/csvi-v$version-windows-386.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/hymkor/csvi/releases/download/v$version/csvi-v$version-windows-386.zip"
       }
     }
   }

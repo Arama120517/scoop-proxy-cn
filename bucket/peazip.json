@@ -5,12 +5,12 @@
   "license": "LGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/peazip/PeaZip/releases/download/10.9.0/peazip_portable-10.9.0.WIN64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/peazip/PeaZip/releases/download/10.9.0/peazip_portable-10.9.0.WIN64.zip",
       "hash": "e760d0bbcb792a1f89378710e2cede7180e6ed417ba78f94a5960e55b57d16fe",
       "extract_dir": "peazip_portable-10.9.0.WIN64"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/peazip/PeaZip/releases/download/10.9.0/peazip_portable-10.9.0.WINDOWS.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/peazip/PeaZip/releases/download/10.9.0/peazip_portable-10.9.0.WINDOWS.zip",
       "hash": "822059992191ef7566550227fb469ff49c90086aaf44344fe9491a085f1a0fbc",
       "extract_dir": "peazip_portable-10.9.0.WINDOWS"
     }
@@ -41,11 +41,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/peazip/PeaZip/releases/download/$version/peazip_portable-$version.WIN64.zip",
+        "url": "https://v6.gh-proxy.org/https://github.com/peazip/PeaZip/releases/download/$version/peazip_portable-$version.WIN64.zip",
         "extract_dir": "peazip_portable-$version.WIN64"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/peazip/PeaZip/releases/download/$version/peazip_portable-$version.WINDOWS.zip",
+        "url": "https://v6.gh-proxy.org/https://github.com/peazip/PeaZip/releases/download/$version/peazip_portable-$version.WINDOWS.zip",
         "extract_dir": "peazip_portable-$version.WINDOWS"
       }
     },

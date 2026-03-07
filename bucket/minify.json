@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/tdewolff/minify/releases/download/v2.24.10/minify_windows_amd64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/tdewolff/minify/releases/download/v2.24.10/minify_windows_amd64.zip",
       "hash": "42b9832c7491d172fea7831c7479a3c0395b937b0f914694d366ff230547f024"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/tdewolff/minify/releases/download/v$version/minify_windows_amd64.zip",
+        "url": "https://v6.gh-proxy.org/https://github.com/tdewolff/minify/releases/download/v$version/minify_windows_amd64.zip",
         "hash": {
           "url": "$baseurl/checksums.txt"
         }

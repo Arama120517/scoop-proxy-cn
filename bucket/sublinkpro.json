@@ -6,7 +6,7 @@
   "notes": "https://github.com/ViCrack/scoop-bucket/blob/master/bucket/sublinkpro.json https://github.com/vicrack/scoop-bucket",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/ZeroDeng01/sublinkPro/releases/download/v1.0.85/sublinkPro-windows-amd64.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/ZeroDeng01/sublinkPro/releases/download/v1.0.85/sublinkPro-windows-amd64.exe",
       "hash": "afa3e0b820df9536b9f802448bf8ebbe77e825bbb3bd5544d6f68a5393fc4f5a"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/ZeroDeng01/sublinkPro/releases/download/v$version/sublinkPro-windows-amd64.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/ZeroDeng01/sublinkPro/releases/download/v$version/sublinkPro-windows-amd64.exe"
       }
     }
   }

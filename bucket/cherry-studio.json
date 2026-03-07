@@ -8,11 +8,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.24/Cherry-Studio-1.7.24-x64-portable.exe#/cherry-studio.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.24/Cherry-Studio-1.7.24-x64-portable.exe#/cherry-studio.exe",
       "hash": "551ce52938c0bad7c911248f19b804beeb7ba0acdd047ae40d8a9f4b25f03776"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.24/Cherry-Studio-1.7.24-arm64-portable.exe#/cherry-studio.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.24/Cherry-Studio-1.7.24-arm64-portable.exe#/cherry-studio.exe",
       "hash": "3a54b176b5b928e7b9353f1295118ad15affb21c420a410686b9fcda5a3342ea"
     }
   },
@@ -37,10 +37,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-x64-portable.exe#/cherry-studio.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-x64-portable.exe#/cherry-studio.exe"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-arm64-portable.exe#/cherry-studio.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-arm64-portable.exe#/cherry-studio.exe"
       }
     }
   }

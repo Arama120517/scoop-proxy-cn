@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/JohnnyMorganz/luau-lsp/releases/download/1.63.0/luau-lsp-win64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/JohnnyMorganz/luau-lsp/releases/download/1.63.0/luau-lsp-win64.zip",
       "hash": "eea596d47dc1c94a61ba1b78e6472bb4445bc3309780751515e6ab0a0abba57d"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/JohnnyMorganz/luau-lsp/releases/download/$version/luau-lsp-win64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/JohnnyMorganz/luau-lsp/releases/download/$version/luau-lsp-win64.zip"
       }
     }
   }

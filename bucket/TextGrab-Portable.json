@@ -9,7 +9,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/TheJoeFin/Text-Grab/releases/download/v4.12.0/Text-Grab.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/TheJoeFin/Text-Grab/releases/download/v4.12.0/Text-Grab.exe",
       "hash": "c3b55118f47bc87380201c22d6129c7db8152864bc559c0e5f4aed6f7d6e769f"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/TheJoeFin/Text-Grab/releases/download/v$version/Text-Grab.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/TheJoeFin/Text-Grab/releases/download/v$version/Text-Grab.exe"
       }
     }
   }

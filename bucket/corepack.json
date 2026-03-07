@@ -6,7 +6,7 @@
   "suggest": {
     "nodejs": "main/nodejs"
   },
-  "url": "https://gh-proxy.org/https://github.com/nodejs/corepack/releases/download/v0.34.6/corepack.tgz",
+  "url": "https://v6.gh-proxy.org/https://github.com/nodejs/corepack/releases/download/v0.34.6/corepack.tgz",
   "hash": "af29678fc25ed5ae02343e9b67b214a25bacdcffae566f8cf848936beb23a7c8",
   "extract_dir": "package",
   "env_add_path": "shims/nodewin",
@@ -24,6 +24,6 @@
   ],
   "checkver": "github",
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/nodejs/corepack/releases/download/v$version/corepack.tgz"
+    "url": "https://v6.gh-proxy.org/https://github.com/nodejs/corepack/releases/download/v$version/corepack.tgz"
   }
 }

@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/oop7/rquickshare-x/releases/download/0.11.6-b/rquickshare-x_0.11.6-1_x64-setup.exe#/_.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/oop7/rquickshare-x/releases/download/0.11.6-b/rquickshare-x_0.11.6-1_x64-setup.exe#/_.zip",
       "hash": "4b3df3b675d3e3d969921e178b9f5a8a9e985e3769273925ef43fa4783e89998"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/oop7/rquickshare-x/releases/download/$matchTag/rquickshare-x_$version_x64-setup.exe#/_.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/oop7/rquickshare-x/releases/download/$matchTag/rquickshare-x_$version_x64-setup.exe#/_.zip"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/squidowl/halloy/releases/download/2026.4/halloy-installer.msi",
+      "url": "https://v6.gh-proxy.org/https://github.com/squidowl/halloy/releases/download/2026.4/halloy-installer.msi",
       "hash": "cc50ba7fe3dfd6b8f2beace0b8003ab2a06c0f4b08fc7f191dd5a14582c966ee"
     }
   },
@@ -46,7 +46,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/squidowl/halloy/releases/download/$version/halloy-installer.msi"
+        "url": "https://v6.gh-proxy.org/https://github.com/squidowl/halloy/releases/download/$version/halloy-installer.msi"
       }
     },
     "hash": {

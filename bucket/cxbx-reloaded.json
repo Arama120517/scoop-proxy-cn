@@ -11,7 +11,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Cxbx-Reloaded/Cxbx-Reloaded/releases/download/CI-9454f34/CxbxReloaded-Release.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/Cxbx-Reloaded/Cxbx-Reloaded/releases/download/CI-9454f34/CxbxReloaded-Release.zip",
       "hash": "cdacecbfb3bcc4236b47473e3cc7e88882fa43a19539461a55083fd522a65d0e"
     }
   },
@@ -59,7 +59,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Cxbx-Reloaded/Cxbx-Reloaded/releases/download/CI-$matchCommit/CxbxReloaded-Release.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/Cxbx-Reloaded/Cxbx-Reloaded/releases/download/CI-$matchCommit/CxbxReloaded-Release.zip"
       }
     }
   }

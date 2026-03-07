@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Angelore/remnant-two-overseer/releases/download/v1.6.9/RemnantOverseer-v1.6.9-windows.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/Angelore/remnant-two-overseer/releases/download/v1.6.9/RemnantOverseer-v1.6.9-windows.zip",
       "hash": "a122a0cc9e38d7f4dcd4967e4a794510f3c3b7618efb8255d199b6a9d33d9a71"
     }
   },
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Angelore/remnant-two-overseer/releases/download/v$version/RemnantOverseer-v$version-windows.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/Angelore/remnant-two-overseer/releases/download/v$version/RemnantOverseer-v$version-windows.zip"
       }
     }
   }

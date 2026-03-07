@@ -9,7 +9,7 @@
   "notes": "If the GUI does not work properly, you may install Microsoft Edge WebView2 Runtime (https://go.microsoft.com/fwlink/p/?LinkId=2124703) manually.",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/graphif/project-graph/releases/download/v2.11.0/Project.Graph_2.11.0_x64-setup.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/graphif/project-graph/releases/download/v2.11.0/Project.Graph_2.11.0_x64-setup.exe#/dl.7z",
       "hash": "d125e6c1889260212813b4e5e35a5271b29e5e083254b19c0980a5e40ff09127"
     }
   },
@@ -26,7 +26,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/graphif/project-graph/releases/download/v$version/Project.Graph_$version_x64-setup.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/graphif/project-graph/releases/download/v$version/Project.Graph_$version_x64-setup.exe#/dl.7z"
       }
     }
   }

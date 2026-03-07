@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/texstudio-org/texstudio/releases/download/4.9.2/texstudio-4.9.2-win-portable-qt6.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/texstudio-org/texstudio/releases/download/4.9.2/texstudio-4.9.2-win-portable-qt6.zip",
       "hash": "d4bd518323373f449a15547b10e05fe1c2bb663e6bd20d2911cbafd7cfbf6dec"
     }
   },
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/texstudio-org/texstudio/releases/download/$version/texstudio-$version-win-portable-qt6.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/texstudio-org/texstudio/releases/download/$version/texstudio-$version-win-portable-qt6.zip"
       }
     }
   }

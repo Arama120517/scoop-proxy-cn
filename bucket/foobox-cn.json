@@ -6,7 +6,7 @@
     "identifier": "Freeware",
     "url": "https://www.foobar2000.org/license"
   },
-  "url": "https://gh-proxy.org/https://github.com/dream7180/foobox-cn/releases/download/8.9/foobox_x64.cn.v8.9-1.exe",
+  "url": "https://v6.gh-proxy.org/https://github.com/dream7180/foobox-cn/releases/download/8.9/foobox_x64.cn.v8.9-1.exe",
   "hash": "f76ce31402c29a3822886f15f75bb166dc7418a374bf7bdf59442619dc89a68d",
   "shortcuts": [
     [
@@ -24,6 +24,6 @@
     "regex": "download/(?<version>([\\d.]+?))/(?<a>(.+?))\""
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/dream7180/foobox-cn/releases/download/$version/$matchA"
+    "url": "https://v6.gh-proxy.org/https://github.com/dream7180/foobox-cn/releases/download/$version/$matchA"
   }
 }

@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Azure/azure-iot-explorer/releases/download/v0.15.14/Azure.IoT.Explorer.preview.0.15.14.msi",
+      "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-iot-explorer/releases/download/v0.15.14/Azure.IoT.Explorer.preview.0.15.14.msi",
       "hash": "0c7ee3902bd4e5332a24cb55ca2a1c74c94751b63503521d5c770cfa48da04e5"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Azure/azure-iot-explorer/releases/download/v$version/Azure.IoT.Explorer.preview.$version.msi"
+        "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-iot-explorer/releases/download/v$version/Azure.IoT.Explorer.preview.$version.msi"
       }
     }
   }

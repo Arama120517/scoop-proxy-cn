@@ -6,7 +6,7 @@
   "depends": "main/ffmpeg",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/alexheretic/ab-av1/releases/download/v0.11.1/ab-av1.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/alexheretic/ab-av1/releases/download/v0.11.1/ab-av1.exe",
       "hash": "afee5d97fa749e65b9f57769b95eaf99c5726ff78adba5ae37676c58f1600b06"
     }
   },
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/alexheretic/ab-av1/releases/download/v$version/ab-av1.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/alexheretic/ab-av1/releases/download/v$version/ab-av1.exe"
       }
     }
   }

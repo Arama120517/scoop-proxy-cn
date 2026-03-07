@@ -8,12 +8,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Zalafina/QKeyMapper/releases/download/v1.3.8.20260306/QKeyMapper_v1.3.8.20260306_Qt5_x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/Zalafina/QKeyMapper/releases/download/v1.3.8.20260306/QKeyMapper_v1.3.8.20260306_Qt5_x64.zip",
       "hash": "1001446175e48b386d7a0b951ee09c49b2c5c40c6efa352ddf44cd26c0e382c4",
       "extract_dir": "QKeyMapper_Qt5_x64"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/Zalafina/QKeyMapper/releases/download/v1.3.8.20260306/QKeyMapper_v1.3.8.20260306_Qt5_x86.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/Zalafina/QKeyMapper/releases/download/v1.3.8.20260306/QKeyMapper_v1.3.8.20260306_Qt5_x86.zip",
       "hash": "191350ab0e10bcc4d274ade3ea1045f95495d6881ce34bc7fbf25b92d0d4775f",
       "extract_dir": "QKeyMapper_Qt5_x86"
     }
@@ -33,10 +33,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Zalafina/QKeyMapper/releases/download/v$matchTag/QKeyMapper_v$version_Qt5_x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/Zalafina/QKeyMapper/releases/download/v$matchTag/QKeyMapper_v$version_Qt5_x64.zip"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/Zalafina/QKeyMapper/releases/download/v$matchTag/QKeyMapper_v$version_Qt5_x86.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/Zalafina/QKeyMapper/releases/download/v$matchTag/QKeyMapper_v$version_Qt5_x86.zip"
       }
     }
   }

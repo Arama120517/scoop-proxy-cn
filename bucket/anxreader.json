@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Anxcye/anx-reader/releases/download/v1.12.0/Anx-Reader-windows-1.12.0.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/Anxcye/anx-reader/releases/download/v1.12.0/Anx-Reader-windows-1.12.0.exe",
       "hash": "ca0ff9b9a1bd5b722bd1af7f5576cad1be09709ecfec7c52cc78ea16c94a02dc"
     }
   },
@@ -43,7 +43,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Anxcye/anx-reader/releases/download/v$version/Anx-Reader-windows-$version.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/Anxcye/anx-reader/releases/download/v$version/Anx-Reader-windows-$version.exe"
       }
     }
   }

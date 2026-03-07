@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/updatecli/updatecli/releases/download/v0.114.0/updatecli_Windows_x86_64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/updatecli/updatecli/releases/download/v0.114.0/updatecli_Windows_x86_64.zip",
       "hash": "9fe0335747b7d50e36b0624be84873a9f3bb9f97db70b2f476f16be462ed1dec"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/updatecli/updatecli/releases/download/v0.114.0/updatecli_Windows_arm64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/updatecli/updatecli/releases/download/v0.114.0/updatecli_Windows_arm64.zip",
       "hash": "f52fe36b52f5fbbf2188148601ac121bf7b508d38d99bfd72416d98d643a6ef9"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_x86_64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_x86_64.zip"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_arm64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_arm64.zip"
       }
     },
     "hash": {

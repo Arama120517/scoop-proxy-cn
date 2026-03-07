@@ -5,15 +5,15 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/astral-sh/ty/releases/download/0.0.21/ty-x86_64-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/astral-sh/ty/releases/download/0.0.21/ty-x86_64-pc-windows-msvc.zip",
       "hash": "7ba2c9ecc8beff6eef59ca31721ba57cd06e057d97e03fb328075ff6bda7fd57"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/astral-sh/ty/releases/download/0.0.21/ty-i686-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/astral-sh/ty/releases/download/0.0.21/ty-i686-pc-windows-msvc.zip",
       "hash": "e382157d7f1dfcf3e99068577a6cf3a11efcd30d47b49e4265e8583253f8976d"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/astral-sh/ty/releases/download/0.0.21/ty-aarch64-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/astral-sh/ty/releases/download/0.0.21/ty-aarch64-pc-windows-msvc.zip",
       "hash": "2a9954b82800eba74a91e8bc032720ea37e1743be4deae991ab3aeda62ffbdab"
     }
   },
@@ -22,13 +22,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/astral-sh/ty/releases/download/$version/ty-x86_64-pc-windows-msvc.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/astral-sh/ty/releases/download/$version/ty-x86_64-pc-windows-msvc.zip"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/astral-sh/ty/releases/download/$version/ty-i686-pc-windows-msvc.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/astral-sh/ty/releases/download/$version/ty-i686-pc-windows-msvc.zip"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/astral-sh/ty/releases/download/$version/ty-aarch64-pc-windows-msvc.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/astral-sh/ty/releases/download/$version/ty-aarch64-pc-windows-msvc.zip"
       }
     },
     "hash": {

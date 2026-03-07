@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.36.0/kubeseal-0.36.0-windows-amd64.tar.gz",
+      "url": "https://v6.gh-proxy.org/https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.36.0/kubeseal-0.36.0-windows-amd64.tar.gz",
       "hash": "b1651a6fca45aa96f1922c054707b6fca734550b143ad1d67c97bfb30a4a93eb"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/bitnami-labs/sealed-secrets/releases/download/v$version/kubeseal-$version-windows-amd64.tar.gz",
+        "url": "https://v6.gh-proxy.org/https://github.com/bitnami-labs/sealed-secrets/releases/download/v$version/kubeseal-$version-windows-amd64.tar.gz",
         "hash": {
           "url": "$baseurl/sealed-secrets_$version_checksums.txt"
         }

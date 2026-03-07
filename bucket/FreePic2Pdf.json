@@ -3,7 +3,7 @@
   "description": "A freeware to convert image (TIFF, JPG, JP2, PNG, GIF, webp and BMP) files into PDF",
   "homepage": "https://www.cnblogs.com/stronghorse",
   "license": "Freeware",
-  "url": "https://gh-proxy.org/https://raw.githubusercontent.com/sqliuchang/strnghrs_packages/main/FreePic2Pdf.zip",
+  "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/sqliuchang/strnghrs_packages/main/FreePic2Pdf.zip",
   "hash": "ec38086204e67e48bf28599470e5fb2189f4407adbb846b554f85f0e961f3997",
   "pre_install": [
     "if (!(Test-Path -Path \"$dir\\FreePic2Pdf.ini\")) {",

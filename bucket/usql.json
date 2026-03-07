@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/xo/usql/releases/download/v0.21.1/usql-0.21.1-windows-amd64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/xo/usql/releases/download/v0.21.1/usql-0.21.1-windows-amd64.zip",
       "hash": "7d2d38020651e273208eb3dbbc825383d56832629ee6bb211123a7f6e52f905b"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/xo/usql/releases/download/v$version/usql-$version-windows-amd64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/xo/usql/releases/download/v$version/usql-$version-windows-amd64.zip"
       }
     }
   }

@@ -6,7 +6,7 @@
   "notes": "config location: C:\\Users\\<your username>\\\\AppData\\\\Roaming\\ChatLab - https://github.com/vicrack/scoop-bucket/blob/master/bucket/chatlab.json https://github.com/vicrack/scoop-bucket",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/hellodigua/ChatLab/releases/download/v0.12.1/ChatLab-0.12.1-setup.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/hellodigua/ChatLab/releases/download/v0.12.1/ChatLab-0.12.1-setup.exe#/dl.7z",
       "hash": "2d6964baafbe6427ac0b24f661a09e4eb6f2dce12e0a30c8b852b6b4fdc8c147",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -26,7 +26,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/hellodigua/ChatLab/releases/download/v$version/ChatLab-$version-setup.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/hellodigua/ChatLab/releases/download/v$version/ChatLab-$version-setup.exe#/dl.7z"
       }
     }
   }

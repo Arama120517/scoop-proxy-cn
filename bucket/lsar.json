@@ -3,7 +3,7 @@
   "description": "直播解析图形化程序",
   "homepage": "https://github.com/alley-rs/lsar",
   "license": "Unknown",
-  "url": "https://gh-proxy.org/https://github.com/alley-rs/lsar/releases/download/v0.3.11/lsar_0.3.11_x64-setup.exe#/dl.7z",
+  "url": "https://v6.gh-proxy.org/https://github.com/alley-rs/lsar/releases/download/v0.3.11/lsar_0.3.11_x64-setup.exe#/dl.7z",
   "hash": "9ea8f0328a7f491863ae8c5960c153a3e75a121cbb8e19d2994e67ad56215485",
   "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninst*\" -Force -Recurse",
   "installer": {
@@ -34,6 +34,6 @@
     "regex": "/releases/tag/v([\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/alley-rs/lsar/releases/download/v$version/lsar_$version_x64-setup.exe#/dl.7z"
+    "url": "https://v6.gh-proxy.org/https://github.com/alley-rs/lsar/releases/download/v$version/lsar_$version_x64-setup.exe#/dl.7z"
   }
 }

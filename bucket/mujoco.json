@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/google-deepmind/mujoco/releases/download/3.5.0/mujoco-3.5.0-windows-x86_64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/google-deepmind/mujoco/releases/download/3.5.0/mujoco-3.5.0-windows-x86_64.zip",
       "hash": "877d0dfbceac3de90a874c41e0f20c568d104e8ca19de955c0482e3b63832519"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/google-deepmind/mujoco/releases/download/$version/mujoco-$version-windows-x86_64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/google-deepmind/mujoco/releases/download/$version/mujoco-$version-windows-x86_64.zip"
       }
     },
     "hash": {

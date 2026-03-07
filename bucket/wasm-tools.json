@@ -5,7 +5,7 @@
   "license": "Apache-2.0|MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/bytecodealliance/wasm-tools/releases/download/v1.245.1/wasm-tools-1.245.1-x86_64-windows.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/bytecodealliance/wasm-tools/releases/download/v1.245.1/wasm-tools-1.245.1-x86_64-windows.zip",
       "hash": "3d7896b11b419b64a5f1cf81cef92a8da3371babc620eaf75fba4bca4670a75b",
       "extract_dir": "wasm-tools-1.245.1-x86_64-windows"
     }
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/bytecodealliance/wasm-tools/releases/download/v$version/wasm-tools-$version-x86_64-windows.zip",
+        "url": "https://v6.gh-proxy.org/https://github.com/bytecodealliance/wasm-tools/releases/download/v$version/wasm-tools-$version-x86_64-windows.zip",
         "extract_dir": "wasm-tools-$version-x86_64-windows"
       }
     }

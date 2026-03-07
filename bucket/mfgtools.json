@@ -10,7 +10,7 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/nxp-imx/mfgtools/releases/download/uuu_1.5.233/uuu.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/nxp-imx/mfgtools/releases/download/uuu_1.5.233/uuu.exe",
       "hash": "a3c7241650c05dd6373a6aef086b34322c013103da729c1b446ec86694309939"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/nxp-imx/mfgtools/releases/download/uuu_$version/uuu.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/nxp-imx/mfgtools/releases/download/uuu_$version/uuu.exe"
       }
     }
   }

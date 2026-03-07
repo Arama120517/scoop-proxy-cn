@@ -5,7 +5,7 @@
   "license": "BSD-2-Clause",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/AOMediaCodec/libavif/releases/download/v1.4.0/windows-artifacts.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/AOMediaCodec/libavif/releases/download/v1.4.0/windows-artifacts.zip",
       "hash": "8cbda4eb776d679148785da32c061af7ae6c1acc7707dc8cadad7ee2b32f9250"
     }
   },
@@ -18,7 +18,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/AOMediaCodec/libavif/releases/download/v$version/windows-artifacts.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/AOMediaCodec/libavif/releases/download/v$version/windows-artifacts.zip"
       }
     }
   }

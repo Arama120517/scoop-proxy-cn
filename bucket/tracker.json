@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/ShenMian/tracker/releases/download/v0.1.18/tracker-windows-x86_64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/ShenMian/tracker/releases/download/v0.1.18/tracker-windows-x86_64.zip",
       "hash": "7461c44d5beada790167b8bbf548afd691a6ce9e91e4cf55bd7d9cddebe76bb5"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/ShenMian/tracker/releases/download/v$version/tracker-windows-x86_64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/ShenMian/tracker/releases/download/v$version/tracker-windows-x86_64.zip"
       }
     }
   }

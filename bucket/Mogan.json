@@ -5,7 +5,7 @@
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/XmacsLabs/mogan/releases/download/v2026.2.0/MoganSTEM-v2026.2.0-64bit-installer.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/XmacsLabs/mogan/releases/download/v2026.2.0/MoganSTEM-v2026.2.0-64bit-installer.exe#/dl.7z",
       "hash": "a997afaa5cc2d1d2c439f37c1ecb9f5eb1dee33080eba89170749a91ee662f40"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/XmacsLabs/mogan/releases/download/v$version/MoganSTEM-v$version-64bit-installer.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/XmacsLabs/mogan/releases/download/v$version/MoganSTEM-v$version-64bit-installer.exe#/dl.7z"
       }
     }
   }

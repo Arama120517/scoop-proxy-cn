@@ -7,7 +7,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/ComicSparks/jasmine/releases/download/v1.7.17/jasmine-v1.7.17-windows-x86_64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/ComicSparks/jasmine/releases/download/v1.7.17/jasmine-v1.7.17-windows-x86_64.zip",
       "hash": "a3aa5d91cea24624cc56c564f7a4daeb3cdaec856c2827671c2c7f61ca0eeada"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/ComicSparks/jasmine/releases/download/v$version/jasmine-v$version-windows-x86_64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/ComicSparks/jasmine/releases/download/v$version/jasmine-v$version-windows-x86_64.zip"
       }
     }
   }

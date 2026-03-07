@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/gulbanana/gg/releases/download/v0.38.4/gg_0.38.4_x64_en-US.msi",
+      "url": "https://v6.gh-proxy.org/https://github.com/gulbanana/gg/releases/download/v0.38.4/gg_0.38.4_x64_en-US.msi",
       "hash": "8dc878553b75f3a89f8063f7fcf966ae4b4fa8809f61dee84c8841dd13e2c33c"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/gulbanana/gg/releases/download/v$version/gg_$version_x64_en-US.msi"
+        "url": "https://v6.gh-proxy.org/https://github.com/gulbanana/gg/releases/download/v$version/gg_$version_x64_en-US.msi"
       }
     }
   }

@@ -5,15 +5,15 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/swc-project/swc/releases/download/v1.15.18/swc-win32-x64-msvc.exe#/swc.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/swc-project/swc/releases/download/v1.15.18/swc-win32-x64-msvc.exe#/swc.exe",
       "hash": "b584f5d9bfe4fda5802d25078de877f4eb26daf0fdd8873086402ec0f2fc0e61"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/swc-project/swc/releases/download/v1.15.18/swc-win32-ia32-msvc.exe#/swc.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/swc-project/swc/releases/download/v1.15.18/swc-win32-ia32-msvc.exe#/swc.exe",
       "hash": "9be7f90d1fc259434ae5321060fbe8f5b76fdf56bd5b623e0a04d4797fe1e22c"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/swc-project/swc/releases/download/v1.15.18/swc-win32-arm64-msvc.exe#/swc.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/swc-project/swc/releases/download/v1.15.18/swc-win32-arm64-msvc.exe#/swc.exe",
       "hash": "aa5db6b05af5562b0cc295979ec50f9bd74e344f6d480e6b1c19c7e132158b2b"
     }
   },
@@ -25,13 +25,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/swc-project/swc/releases/download/v$version/swc-win32-x64-msvc.exe#/swc.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/swc-project/swc/releases/download/v$version/swc-win32-x64-msvc.exe#/swc.exe"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/swc-project/swc/releases/download/v$version/swc-win32-ia32-msvc.exe#/swc.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/swc-project/swc/releases/download/v$version/swc-win32-ia32-msvc.exe#/swc.exe"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/swc-project/swc/releases/download/v$version/swc-win32-arm64-msvc.exe#/swc.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/swc-project/swc/releases/download/v$version/swc-win32-arm64-msvc.exe#/swc.exe"
       }
     }
   }

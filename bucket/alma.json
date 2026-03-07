@@ -5,7 +5,7 @@
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/yetone/alma-releases/releases/download/v0.0.664/alma-0.0.664-win-x64.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/yetone/alma-releases/releases/download/v0.0.664/alma-0.0.664-win-x64.exe#/dl.7z",
       "hash": "8881d06eb2a79efd13888bf439760fe703a5a06dded9fc6e2412adef9b9f92da",
       "installer": {
         "script": [
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/yetone/alma-releases/releases/download/v$version/alma-$version-win-x64.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/yetone/alma-releases/releases/download/v$version/alma-$version-win-x64.exe#/dl.7z"
       }
     }
   }

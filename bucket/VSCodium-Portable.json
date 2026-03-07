@@ -6,9 +6,9 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://gh-proxy.org/https://github.com/VSCodium/vscodium/releases/download/1.110.01571/VSCodium-win32-x64-1.110.01571.zip",
-        "https://gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/vscode/install-context.reg",
-        "https://gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/vscode/uninstall-context.reg"
+        "https://v6.gh-proxy.org/https://github.com/VSCodium/vscodium/releases/download/1.110.01571/VSCodium-win32-x64-1.110.01571.zip",
+        "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/vscode/install-context.reg",
+        "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/vscode/uninstall-context.reg"
       ],
       "hash": [
         "e165975c457b53a076b0e898e58593683dd6d5c9bcb66846173dfe32344d7889",
@@ -50,7 +50,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/VSCodium/vscodium/releases/download/$version/VSCodium-win32-x64-$version.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/VSCodium/vscodium/releases/download/$version/VSCodium-win32-x64-$version.zip"
       }
     }
   }

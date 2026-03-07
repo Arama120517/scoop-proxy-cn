@@ -9,12 +9,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.10-1/rubyinstaller-3.2.10-1-x64.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.10-1/rubyinstaller-3.2.10-1-x64.7z",
       "hash": "ea3e293100399dc56c8c18eebbd081d638857f1066a8951d97f0e00af4137d30",
       "extract_dir": "rubyinstaller-3.2.10-1-x64"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.10-1/rubyinstaller-3.2.10-1-x86.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.10-1/rubyinstaller-3.2.10-1-x86.7z",
       "hash": "0bcdf9da9913c0696db85bcd6c079eaf889e4c5e7140aca3970fd244bad4eaa4",
       "extract_dir": "rubyinstaller-3.2.10-1-x86"
     }
@@ -30,22 +30,22 @@
   },
   "persist": "gems",
   "checkver": {
-    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/oneclick/rubyinstaller.org-website/master/_data/downloads.yaml",
+    "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/oneclick/rubyinstaller.org-website/master/_data/downloads.yaml",
     "regex": "Ruby (3\\.2[\\d.-]+)"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-$version/rubyinstaller-$version-x64.7z",
+        "url": "https://v6.gh-proxy.org/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-$version/rubyinstaller-$version-x64.7z",
         "extract_dir": "rubyinstaller-$version-x64"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-$version/rubyinstaller-$version-x86.7z",
+        "url": "https://v6.gh-proxy.org/https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-$version/rubyinstaller-$version-x86.7z",
         "extract_dir": "rubyinstaller-$version-x86"
       }
     },
     "hash": {
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/oneclick/rubyinstaller.org-website/master/_data/downloads.yaml",
+      "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/oneclick/rubyinstaller.org-website/master/_data/downloads.yaml",
       "regex": "(?sm)$basename[^.].*?$sha256"
     }
   }

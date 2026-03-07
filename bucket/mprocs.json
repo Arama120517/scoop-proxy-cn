@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/pvolok/mprocs/releases/download/v0.8.3/mprocs-0.8.3-windows-x86_64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/pvolok/mprocs/releases/download/v0.8.3/mprocs-0.8.3-windows-x86_64.zip",
       "hash": "48cf149106f0f153a827a32d318417d362a34acf1bf6eb8e85c99ed64d6bfcdf"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/pvolok/mprocs/releases/download/v$version/mprocs-$version-windows-x86_64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/pvolok/mprocs/releases/download/v$version/mprocs-$version-windows-x86_64.zip"
       }
     }
   }

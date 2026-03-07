@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/rancher/rke/releases/download/v1.8.11/rke_windows-amd64.exe#/rke.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/rancher/rke/releases/download/v1.8.11/rke_windows-amd64.exe#/rke.exe",
       "hash": "ee9b1690e4db8feadd13084f188690bf479b7f03f082cc19f4140ef57cccb6e5"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/rancher/rke/releases/download/v1.8.11/rke_windows-386.exe#/rke.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/rancher/rke/releases/download/v1.8.11/rke_windows-386.exe#/rke.exe",
       "hash": "661be1962183ef696839ca06f184bc2b19c5bb7522c829fb30b7e38d4e6a01f6"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/rancher/rke/releases/download/v$version/rke_windows-amd64.exe#/rke.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/rancher/rke/releases/download/v$version/rke_windows-amd64.exe#/rke.exe"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/rancher/rke/releases/download/v$version/rke_windows-386.exe#/rke.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/rancher/rke/releases/download/v$version/rke_windows-386.exe#/rke.exe"
       }
     },
     "hash": {

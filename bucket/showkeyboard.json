@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/pattazl/showKeyBoard/releases/download/1.58/ShowKeyBoard_Setup_v1.58_260227.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/pattazl/showKeyBoard/releases/download/1.58/ShowKeyBoard_Setup_v1.58_260227.exe#/dl.7z",
       "hash": "75a2a3b0d1ca701793650a14a04a9c521547e12b0e44a98a399f6fbe0015d797"
     }
   },
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/pattazl/showKeyBoard/releases/download/$version/ShowKeyBoard_Setup_v$version_$matchDate.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/pattazl/showKeyBoard/releases/download/$version/ShowKeyBoard_Setup_v$version_$matchDate.exe#/dl.7z"
       }
     }
   }

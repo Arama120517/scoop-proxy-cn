@@ -6,9 +6,9 @@
   "architecture": {
     "32bit": {
       "url": [
-        "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFIExtract_NE_A73_win32.zip",
-        "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFIFind_NE_A73_win32.zip",
-        "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFITool_NE_A73_win32.zip"
+        "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFIExtract_NE_A73_win32.zip",
+        "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFIFind_NE_A73_win32.zip",
+        "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFITool_NE_A73_win32.zip"
       ],
       "hash": [
         "2194f238fb5da049e7f650316102649910e3edecf9bb8c9ac496c19e50f938ca",
@@ -18,9 +18,9 @@
     },
     "64bit": {
       "url": [
-        "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFIExtract_NE_A73_win64.zip",
-        "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFIFind_NE_A73_win64.zip",
-        "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFITool_NE_A73_win64.zip"
+        "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFIExtract_NE_A73_win64.zip",
+        "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFIFind_NE_A73_win64.zip",
+        "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A73/UEFITool_NE_A73_win64.zip"
       ],
       "hash": [
         "e86fae3b83b6429583c15c4356e5ae09b17807069beb19bd3d8ea1f3f816f853",
@@ -46,16 +46,16 @@
     "architecture": {
       "32bit": {
         "url": [
-          "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIExtract_NE_$version_win32.zip",
-          "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIFind_NE_$version_win32.zip",
-          "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win32.zip"
+          "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIExtract_NE_$version_win32.zip",
+          "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIFind_NE_$version_win32.zip",
+          "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win32.zip"
         ]
       },
       "64bit": {
         "url": [
-          "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIExtract_NE_$version_win64.zip",
-          "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIFind_NE_$version_win64.zip",
-          "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win64.zip"
+          "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIExtract_NE_$version_win64.zip",
+          "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIFind_NE_$version_win64.zip",
+          "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win64.zip"
         ]
       }
     }

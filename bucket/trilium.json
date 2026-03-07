@@ -5,11 +5,11 @@
   "license": "AGPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/TriliumNext/Trilium/releases/download/v0.102.0/TriliumNotes-v0.102.0-windows-x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/TriliumNext/Trilium/releases/download/v0.102.0/TriliumNotes-v0.102.0-windows-x64.zip",
       "hash": "b15617cd90b4fe2b4c56611b9938636baa87b2c7de1475fba9f22917bfb8a7b9"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/TriliumNext/Trilium/releases/download/v0.102.0/TriliumNotes-v0.102.0-windows-arm64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/TriliumNext/Trilium/releases/download/v0.102.0/TriliumNotes-v0.102.0-windows-arm64.zip",
       "hash": "ba3c8981e5e0580fbb1fab4b3393c99f91dd3384b8319182db2123f7e77e4668"
     }
   },
@@ -34,10 +34,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/TriliumNext/Trilium/releases/download/v$version/TriliumNotes-v$version-windows-x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/TriliumNext/Trilium/releases/download/v$version/TriliumNotes-v$version-windows-x64.zip"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/TriliumNext/Trilium/releases/download/v$version/TriliumNotes-v$version-windows-arm64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/TriliumNext/Trilium/releases/download/v$version/TriliumNotes-v$version-windows-arm64.zip"
       }
     }
   }

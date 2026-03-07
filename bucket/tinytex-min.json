@@ -1,7 +1,7 @@
 {
   "description": "A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live. This versions is infra-only and contains no packages.",
   "homepage": "https://yihui.org/tinytex/",
-  "url": "https://gh-proxy.org/https://github.com/yihui/tinytex-releases/releases/download/v2026.03.02/TinyTeX-0-v2026.03.02.zip",
+  "url": "https://v6.gh-proxy.org/https://github.com/yihui/tinytex-releases/releases/download/v2026.03.02/TinyTeX-0-v2026.03.02.zip",
   "extract_dir": "TinyTeX",
   "license": "https://tug.org/texlive/LICENSE.TL",
   "hash": "559046fbedecf229308a132274c3b0036ce49e5974f36504e808cb2e6cb5368a",
@@ -49,6 +49,6 @@
     "github": "https://github.com/yihui/tinytex-releases"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/yihui/tinytex-releases/releases/download/v$version/TinyTeX-0-v$version.zip"
+    "url": "https://v6.gh-proxy.org/https://github.com/yihui/tinytex-releases/releases/download/v$version/TinyTeX-0-v$version.zip"
   }
 }

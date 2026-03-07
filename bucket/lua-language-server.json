@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/LuaLS/lua-language-server/releases/download/3.17.1/lua-language-server-3.17.1-win32-x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/LuaLS/lua-language-server/releases/download/3.17.1/lua-language-server-3.17.1-win32-x64.zip",
       "hash": "795670a80d35b23e7ecf932ede742609f2267314f2df64054b020698fcc8a892"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/LuaLS/lua-language-server/releases/download/3.17.1/lua-language-server-3.17.1-win32-ia32.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/LuaLS/lua-language-server/releases/download/3.17.1/lua-language-server-3.17.1-win32-ia32.zip",
       "hash": "d344bcdc392b71cd1bd506f28ff03d90ce5d3bad99022e08bf3af8eb8b3c73a3"
     }
   },
@@ -19,10 +19,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/LuaLS/lua-language-server/releases/download/$version/lua-language-server-$version-win32-x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/LuaLS/lua-language-server/releases/download/$version/lua-language-server-$version-win32-x64.zip"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/LuaLS/lua-language-server/releases/download/$version/lua-language-server-$version-win32-ia32.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/LuaLS/lua-language-server/releases/download/$version/lua-language-server-$version-win32-ia32.zip"
       }
     }
   }

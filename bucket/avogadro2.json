@@ -5,7 +5,7 @@
   "license": "BSD-3-Clause",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/OpenChemistry/avogadrolibs/releases/download/1.103.0/Avogadro2-1.103.0-win64.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/OpenChemistry/avogadrolibs/releases/download/1.103.0/Avogadro2-1.103.0-win64.exe#/dl.7z",
       "hash": "b4688d8261a4730417183941310b394980225efcca9a241cd1cd99452129caf7"
     }
   },
@@ -23,7 +23,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/OpenChemistry/avogadrolibs/releases/download/$version/Avogadro2-$version-win64.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/OpenChemistry/avogadrolibs/releases/download/$version/Avogadro2-$version-win64.exe#/dl.7z"
       }
     }
   }

@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/CrossPaste/crosspaste-desktop/releases/download/1.2.8.1999/crosspaste-1.2.8-1999.x64.msix#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/CrossPaste/crosspaste-desktop/releases/download/1.2.8.1999/crosspaste-1.2.8-1999.x64.msix#/dl.7z",
       "hash": "75e422c0f13f244ffe853229ad6916e37816bd546e7fc086b682a51f24532fb6",
       "pre_install": "Remove-Item \"$dir\\*.xml\", \"$dir\\Appx*\", \"$dir\\res*\", \"$dir\\update*\" -Force -Recurse"
     }
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/CrossPaste/crosspaste-desktop/releases/download/$version/crosspaste-$match2-$match3.x64.msix#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/CrossPaste/crosspaste-desktop/releases/download/$version/crosspaste-$match2-$match3.x64.msix#/dl.7z"
       }
     }
   }

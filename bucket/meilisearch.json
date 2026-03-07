@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/meilisearch/meilisearch/releases/download/v1.37.0/meilisearch-windows-amd64.exe#/meilisearch.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/meilisearch/meilisearch/releases/download/v1.37.0/meilisearch-windows-amd64.exe#/meilisearch.exe",
       "hash": "b358c98162d4d857e26753b44a5e954c5ed650b5bd654d3c817d09995e6c514f"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/meilisearch/meilisearch/releases/download/v$version/meilisearch-windows-amd64.exe#/meilisearch.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/meilisearch/meilisearch/releases/download/v$version/meilisearch-windows-amd64.exe#/meilisearch.exe"
       }
     }
   }

@@ -4,7 +4,7 @@
   "homepage": "https://github.com/M2Team/NanaZip",
   "license": "MIT",
   "changelog": "https://github.com/M2Team/NanaZip/releases",
-  "url": "https://gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/6.0.1638.0/NanaZip_6.0.1638.0.msixbundle#/dl.7z",
+  "url": "https://v6.gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/6.0.1638.0/NanaZip_6.0.1638.0.msixbundle#/dl.7z",
   "hash": "6116320dec732c4be8249d7aeff908146a5923e990bdc55ef3110f7abbde0f7a",
   "pre_install": [
     "Remove-Item -Path \"$dir\\*\" -Exclude *.msix -Recurse -Force",
@@ -29,7 +29,7 @@
   ],
   "checkver": "github",
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/$version/NanaZip_$version.msixbundle#/dl.7z",
+    "url": "https://v6.gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/$version/NanaZip_$version.msixbundle#/dl.7z",
     "hash": {
       "url": "https://github.com/M2Team/NanaZip/releases/tag/$version",
       "regex": "(?s)$basename.*?$sha256"

@@ -7,7 +7,7 @@
     "64bit": {
       "url": [
         "https://archive.mozilla.org/pub/firefox/releases/148.0/win64/it/Firefox%20Setup%20148.0.exe#/dl.7z",
-        "https://gh-proxy.org/https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
+        "https://v6.gh-proxy.org/https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
       ],
       "hash": [
         "sha512:6df17c1b9871e2246c9ed12701e3d0e881dcfff549d6e3b2cf41f220a91a083fb5aa79d2c4d34e35991bd7f32ccaed6d9dd3ff44f66aaed663fb546f2623a103",
@@ -17,7 +17,7 @@
     "32bit": {
       "url": [
         "https://archive.mozilla.org/pub/firefox/releases/148.0/win32/it/Firefox%20Setup%20148.0.exe#/dl.7z",
-        "https://gh-proxy.org/https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
+        "https://v6.gh-proxy.org/https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
       ],
       "hash": [
         "sha512:5fd8a03772cb81b4e589e698c3c3f804a79fc55556b73ccbd8f83f4f40a84a62e249bbca960a6b56a7f49a8bbcc1373ffdff833f76a3701af591d9f4903eca7e",

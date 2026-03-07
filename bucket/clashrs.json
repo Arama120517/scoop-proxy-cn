@@ -8,15 +8,15 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v0.9.4/clash-x86_64-pc-windows-msvc.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v0.9.4/clash-x86_64-pc-windows-msvc.exe",
       "hash": "0494a172a1fafc6be2dc8419cce34f097ec3efcb44fa7b9df216c76f6702e09f"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v0.9.4/clash-i686-pc-windows-msvc.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v0.9.4/clash-i686-pc-windows-msvc.exe",
       "hash": "b1e451931ffb8cb17a7f54f69ade108f6b94b3edaab11b4d6b2eda268c3d8c99"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v0.9.4/clash-aarch64-pc-windows-msvc.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v0.9.4/clash-aarch64-pc-windows-msvc.exe",
       "hash": "05b75c5c1e20a6576bd645e89b1574e03c7ea208d4cd97eee86b23628db6542b"
     }
   },
@@ -30,13 +30,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v$version/clash-x86_64-pc-windows-msvc.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v$version/clash-x86_64-pc-windows-msvc.exe"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v$version/clash-i686-pc-windows-msvc.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v$version/clash-i686-pc-windows-msvc.exe"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v$version/clash-aarch64-pc-windows-msvc.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/Watfaq/clash-rs/releases/download/v$version/clash-aarch64-pc-windows-msvc.exe"
       }
     },
     "hash": {

@@ -3,7 +3,7 @@
   "description": "Docker wrapper for verapdf PDF validation (for use with Quarto)",
   "homepage": "https://verapdf.org/",
   "license": "Apache-2.0",
-  "url": "https://gh-proxy.org/https://gist.githubusercontent.com/cderv/8ff05e294f3c66e8a0c735690a55f572/raw/verapdf-docker.ps1",
+  "url": "https://v6.gh-proxy.org/https://gist.githubusercontent.com/cderv/8ff05e294f3c66e8a0c735690a55f572/raw/verapdf-docker.ps1",
   "hash": "54c4a10098b9becab495bd641400cc5cb623961ed552efb17e0c5a84c1a2d85d",
   "bin": "verapdf-docker.ps1",
   "env_set": {

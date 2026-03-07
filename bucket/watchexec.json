@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/watchexec/watchexec/releases/download/v2.5.0/watchexec-2.5.0-x86_64-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/watchexec/watchexec/releases/download/v2.5.0/watchexec-2.5.0-x86_64-pc-windows-msvc.zip",
       "hash": "ecfc8457d30f0ebe5fdc6f67fed87e9114eee551310ebb66449629a5994f843c",
       "extract_dir": "watchexec-2.5.0-x86_64-pc-windows-msvc"
     }
@@ -18,7 +18,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/watchexec/watchexec/releases/download/v$version/watchexec-$version-x86_64-pc-windows-msvc.zip",
+        "url": "https://v6.gh-proxy.org/https://github.com/watchexec/watchexec/releases/download/v$version/watchexec-$version-x86_64-pc-windows-msvc.zip",
         "extract_dir": "watchexec-$version-x86_64-pc-windows-msvc"
       }
     }

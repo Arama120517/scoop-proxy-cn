@@ -10,7 +10,7 @@
       "java/openjdk"
     ]
   },
-  "url": "https://gh-proxy.org/https://github.com/ReaJason/MemShellParty/releases/download/v2.6.0/boot-2.6.0.jar",
+  "url": "https://v6.gh-proxy.org/https://github.com/ReaJason/MemShellParty/releases/download/v2.6.0/boot-2.6.0.jar",
   "hash": "744ad2762b6265ce2bbad91acc26dcdba10c263542f292f217746144ecb5398a",
   "pre_install": [
     "",
@@ -70,6 +70,6 @@
     "github": "https://github.com/ReaJason/MemShellParty"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/ReaJason/MemShellParty/releases/download/v$version/boot-$version.jar"
+    "url": "https://v6.gh-proxy.org/https://github.com/ReaJason/MemShellParty/releases/download/v$version/boot-$version.jar"
   }
 }

@@ -8,11 +8,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/any-listen/any-listen-desktop/releases/download/v0.5.0/any-listen-0.5.0-win7_x64-green.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/any-listen/any-listen-desktop/releases/download/v0.5.0/any-listen-0.5.0-win7_x64-green.7z",
       "hash": "2a7dfe8736b68b047590b87c7995682443fb3b5161ae76e2b4b10b0bcaef7601"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/any-listen/any-listen-desktop/releases/download/v0.5.0/any-listen-0.5.0-win7_x86-green.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/any-listen/any-listen-desktop/releases/download/v0.5.0/any-listen-0.5.0-win7_x86-green.7z",
       "hash": "729d31174b26bdb14cb20cf44654b1526fb2b87ee78d2e3d7b6e292a8ef01c8c"
     }
   },
@@ -51,10 +51,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/any-listen/any-listen-desktop/releases/download/v$version/any-listen-$version-win7_x64-green.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/any-listen/any-listen-desktop/releases/download/v$version/any-listen-$version-win7_x64-green.7z"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/any-listen/any-listen-desktop/releases/download/v$version/any-listen-$version-win7_x86-green.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/any-listen/any-listen-desktop/releases/download/v$version/any-listen-$version-win7_x86-green.7z"
       }
     },
     "hash": {

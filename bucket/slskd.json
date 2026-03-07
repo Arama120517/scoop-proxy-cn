@@ -5,11 +5,11 @@
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/slskd/slskd/releases/download/0.24.5/slskd-0.24.5-win-x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/slskd/slskd/releases/download/0.24.5/slskd-0.24.5-win-x64.zip",
       "hash": "2f2c50d006251171ac423bf7a9befa470aaba008044123e3b4167ebdec6ffb3a"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/slskd/slskd/releases/download/0.24.5/slskd-0.24.5-win-arm64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/slskd/slskd/releases/download/0.24.5/slskd-0.24.5-win-arm64.zip",
       "hash": "fef18e31e1cea05668ec40226c38b853f631a00a8ea0f81181329470b173d231"
     }
   },
@@ -19,10 +19,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/slskd/slskd/releases/download/$version/slskd-$version-win-x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/slskd/slskd/releases/download/$version/slskd-$version-win-x64.zip"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/slskd/slskd/releases/download/$version/slskd-$version-win-arm64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/slskd/slskd/releases/download/$version/slskd-$version-win-arm64.zip"
       }
     }
   }

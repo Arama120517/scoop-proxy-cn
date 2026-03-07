@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v1.30.0/win-x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v1.30.0/win-x64.zip",
       "hash": "03045011da6038f632748750751fc88692f2ef5d13205b572e2e596f31e62153"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v1.30.0/win-x86.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v1.30.0/win-x86.zip",
       "hash": "3196bf95dd013a0f651a8ba00508a15a9dfd01ffa90116fd113d479cda2b05e4"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v$version/win-x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v$version/win-x64.zip"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v$version/win-x86.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v$version/win-x86.zip"
       }
     }
   }

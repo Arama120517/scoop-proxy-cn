@@ -3,7 +3,7 @@
   "description": "Debugger for mq (jq-like Markdown processor)",
   "homepage": "https://mqlang.org/",
   "license": "MIT",
-  "url": "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.5.17/mq-dbg-x86_64-pc-windows-msvc.exe#/mq-dbg.exe",
+  "url": "https://v6.gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.5.17/mq-dbg-x86_64-pc-windows-msvc.exe#/mq-dbg.exe",
   "hash": "00be59603e48bb8b52ecfa5018b288d5e6d6fe9e46e0c3d495168403085d5fd7",
   "bin": "mq-dbg.exe",
   "suggest": {
@@ -13,6 +13,6 @@
     "github": "https://github.com/harehare/mq"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-dbg-x86_64-pc-windows-msvc.exe#/mq-dbg.exe"
+    "url": "https://v6.gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-dbg-x86_64-pc-windows-msvc.exe#/mq-dbg.exe"
   }
 }

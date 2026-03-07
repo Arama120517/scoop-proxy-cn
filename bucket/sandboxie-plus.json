@@ -4,7 +4,7 @@
   "homepage": "https://github.com/sandboxie-plus/Sandboxie",
   "license": "GNU General Public License v3.0",
   "notes": "The shortcuts are located in \"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Sandboxie-Plus\\\"",
-  "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.2/Sandboxie-Plus-x64-v1.17.2.exe",
+  "url": "https://v6.gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.2/Sandboxie-Plus-x64-v1.17.2.exe",
   "hash": "b7ab56c83f9f56f712d4e9ca57f5ac5a93ab11147805d0ab11f11b97d835908d",
   "pre_install": [
     "# Copy or create files for persisting",
@@ -37,6 +37,6 @@
   "persist": "Sandboxie.ini",
   "checkver": "github",
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/v$version/Sandboxie-Plus-x64-v$matchHead.exe"
+    "url": "https://v6.gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/v$version/Sandboxie-Plus-x64-v$matchHead.exe"
   }
 }

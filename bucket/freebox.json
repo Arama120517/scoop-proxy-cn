@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/kknifer7/FreeBox/releases/download/v1.7.0/FreeBox_1.7.0.msi",
+      "url": "https://v6.gh-proxy.org/https://github.com/kknifer7/FreeBox/releases/download/v1.7.0/FreeBox_1.7.0.msi",
       "hash": "a28824bd96a1a51411bf959b86e21029c96fa26f17f18b33e1ffbe191504e67a"
     }
   },
@@ -47,7 +47,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/kknifer7/FreeBox/releases/download/v$version/FreeBox_$version.msi"
+        "url": "https://v6.gh-proxy.org/https://github.com/kknifer7/FreeBox/releases/download/v$version/FreeBox_$version.msi"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/codexu/note-gen/releases/download/note-gen-v0.26.2/NoteGen_0.26.2_x64_en-US.msi",
+      "url": "https://v6.gh-proxy.org/https://github.com/codexu/note-gen/releases/download/note-gen-v0.26.2/NoteGen_0.26.2_x64_en-US.msi",
       "hash": "e41e0889e6755857684d96be412cf177157ab591611c36f43cc79e660dad6e39"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/codexu/note-gen/releases/download/note-gen-v$version/NoteGen_$version_x64_en-US.msi"
+        "url": "https://v6.gh-proxy.org/https://github.com/codexu/note-gen/releases/download/note-gen-v$version/NoteGen_$version_x64_en-US.msi"
       }
     }
   }

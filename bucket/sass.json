@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/sass/dart-sass/releases/download/1.97.3/dart-sass-1.97.3-windows-x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/sass/dart-sass/releases/download/1.97.3/dart-sass-1.97.3-windows-x64.zip",
       "hash": "7cefc5a1a1fbe10a7428dea86493f43866f0343ebc7a1e401c8b708ebea26e0a"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/sass/dart-sass/releases/download/1.97.3/dart-sass-1.97.3-windows-arm64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/sass/dart-sass/releases/download/1.97.3/dart-sass-1.97.3-windows-arm64.zip",
       "hash": "ac8e14e9d1d1cfd5dd868e71724b443cbbd038997bf6229b85a5199fd9771a70"
     }
   },
@@ -27,10 +27,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-x64.zip"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-arm64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-arm64.zip"
       }
     }
   }

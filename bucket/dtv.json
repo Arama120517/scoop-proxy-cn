@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/chen-zeong/DTV/releases/download/v2.4.5/DTV_2.4.5_x64-setup.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/chen-zeong/DTV/releases/download/v2.4.5/DTV_2.4.5_x64-setup.exe#/dl.7z",
       "hash": "70e221f118f0a6c5287eb0ada89a8d28d435a4ebfd0f583d88cc443e5e7bed82"
     }
   },
@@ -43,7 +43,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/chen-zeong/DTV/releases/download/v$version/DTV_$version_x64-setup.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/chen-zeong/DTV/releases/download/v$version/DTV_$version_x64-setup.exe#/dl.7z"
       }
     }
   }

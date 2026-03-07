@@ -5,15 +5,15 @@
   "license": "GPL-3.0 license",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.5.2-rc.1/nexttrace_windows_amd64.exe#/nexttrace.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.5.2-rc.1/nexttrace_windows_amd64.exe#/nexttrace.exe",
       "hash": "125e04b21afd554f0b302a482ede750ebcc70d52ecc2c87faf07621a7df2d979"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.5.2-rc.1/nexttrace_windows_386.exe#/nexttrace.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.5.2-rc.1/nexttrace_windows_386.exe#/nexttrace.exe",
       "hash": "9743a423caeef324801717e501c89fba4eed821801854da47ea539d9b5f50355"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.5.2-rc.1/nexttrace_windows_arm64.exe#/nexttrace.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.5.2-rc.1/nexttrace_windows_arm64.exe#/nexttrace.exe",
       "hash": "98dd62448634adf3f07d4e0e6a54d94f3cac62717d7b3856e52811549271ee58"
     }
   },
@@ -25,13 +25,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v$version/nexttrace_windows_amd64.exe#/nexttrace.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v$version/nexttrace_windows_amd64.exe#/nexttrace.exe"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v$version/nexttrace_windows_386.exe#/nexttrace.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v$version/nexttrace_windows_386.exe#/nexttrace.exe"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v$version/nexttrace_windows_arm64.exe#/nexttrace.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/nxtrace/Ntrace-V1/releases/download/v$version/nexttrace_windows_arm64.exe#/nexttrace.exe"
       }
     }
   }

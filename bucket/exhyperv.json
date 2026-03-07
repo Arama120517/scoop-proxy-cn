@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Justsenger/ExHyperV/releases/download/1.4.1/1.4.1.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/Justsenger/ExHyperV/releases/download/1.4.1/1.4.1.zip",
       "hash": "93eb79668bb85a39ccdfbb7ac6a051461f5e40e5fc93bb6e9bf9f423bfcc1eda"
     }
   },
@@ -32,7 +32,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Justsenger/ExHyperV/releases/download/$version/$version.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/Justsenger/ExHyperV/releases/download/$version/$version.zip"
       }
     }
   }

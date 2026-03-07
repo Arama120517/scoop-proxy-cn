@@ -5,7 +5,7 @@
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/lunatask/lunatask/releases/download/v2.1.23/Lunatask-Setup-2.1.23.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/lunatask/lunatask/releases/download/v2.1.23/Lunatask-Setup-2.1.23.exe#/dl.7z",
       "hash": "162c1503b7ac2cbe674bee16db38a93b2fe42d99c68c9de8b90924116a07d6a9",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -25,7 +25,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/lunatask/lunatask/releases/download/v$version/Lunatask-Setup-$version.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/lunatask/lunatask/releases/download/v$version/Lunatask-Setup-$version.exe#/dl.7z"
       }
     }
   }

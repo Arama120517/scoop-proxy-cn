@@ -2,7 +2,7 @@
   "version": "8.1",
   "license": "SIL OFL 1.1",
   "homepage": "https://github.com/aminabedi68/Estedad/",
-  "url": "https://gh-proxy.org/https://github.com/aminabedi68/Estedad/releases/download/8.1/Estedad-v8.1.zip",
+  "url": "https://v6.gh-proxy.org/https://github.com/aminabedi68/Estedad/releases/download/8.1/Estedad-v8.1.zip",
   "hash": "f709c08cba8c3147151d4aaabe1aae0c2f67e41f9b7039f34942f1182effe97f",
   "pre_install": [
     "Move-Item $dir\\Statics\\ttf\\* $dir",
@@ -52,6 +52,6 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/aminabedi68/Estedad/releases/download/$version/Estedad-v$version.zip"
+    "url": "https://v6.gh-proxy.org/https://github.com/aminabedi68/Estedad/releases/download/$version/Estedad-v$version.zip"
   }
 }

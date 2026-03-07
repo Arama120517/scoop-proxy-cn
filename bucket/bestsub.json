@@ -8,11 +8,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/bestruirui/BestSub/releases/download/v1.8.6/bestsub-windows-x86_64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/bestruirui/BestSub/releases/download/v1.8.6/bestsub-windows-x86_64.zip",
       "hash": "b53d8c9ec30c6b327fe226b94f3e6681e46b5bee9ccaf476d03ae211b2286253"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/bestruirui/BestSub/releases/download/v1.8.6/bestsub-windows-x86.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/bestruirui/BestSub/releases/download/v1.8.6/bestsub-windows-x86.zip",
       "hash": "65cc092e9cc3cea8c33bc370c4d64029899ed0ad867e6cf3b91faa64f091fbea"
     }
   },
@@ -24,10 +24,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/bestruirui/BestSub/releases/download/v$version/bestsub-windows-x86_64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/bestruirui/BestSub/releases/download/v$version/bestsub-windows-x86_64.zip"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/bestruirui/BestSub/releases/download/v$version/bestsub-windows-x86.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/bestruirui/BestSub/releases/download/v$version/bestsub-windows-x86.zip"
       }
     }
   }

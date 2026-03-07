@@ -5,11 +5,11 @@
   "license": "AGPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.201.19/standard-notes-3.201.19-win-x64.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.201.19/standard-notes-3.201.19-win-x64.exe#/dl.7z",
       "hash": "sha512:b29c52dcbb6208765f16b321ccd8db585411435e53219cf295554f09069929862996dffd950fcec819f541fb75c75bbc571bebe8bca0af5fa165727364593d82"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.201.19/standard-notes-3.201.19-win-ia32.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.201.19/standard-notes-3.201.19-win-ia32.exe#/dl.7z",
       "hash": "sha512:02f1cd4603fd157241a3706ed90ca1d3d3692f50695ab6637e8174f21393d3c60f3f6914153b8966a521cafee4b15323c07632e7a8284ada91f8363726d5b9b1"
     }
   },
@@ -28,10 +28,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@$version/standard-notes-$version-win-x64.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@$version/standard-notes-$version-win-x64.exe#/dl.7z"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@$version/standard-notes-$version-win-ia32.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@$version/standard-notes-$version-win-ia32.exe#/dl.7z"
       }
     },
     "hash": {

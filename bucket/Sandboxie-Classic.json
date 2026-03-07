@@ -9,7 +9,7 @@
   "notes": "Get Sandboxie Plus if you are a first-time user or want the latest features.",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.2/Sandboxie-Classic-x64-v5.72.2.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.2/Sandboxie-Classic-x64-v5.72.2.exe",
       "hash": "0ef862686f61b84572397188da4f6755093f30c51155e3925f8ef1e6abc07ae1"
     }
   },
@@ -58,7 +58,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/$matchTag/Sandboxie-Classic-x64-v$version.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/$matchTag/Sandboxie-Classic-x64-v$version.exe"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/mrjackwills/oxker/releases/download/v0.13.0/oxker_windows_x86_64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/mrjackwills/oxker/releases/download/v0.13.0/oxker_windows_x86_64.zip",
       "hash": "bb537baf854d70fab40ff6ab0fbc4d53ea58bfbe0e1a0eb48b03f1df369c37a0"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/mrjackwills/oxker/releases/download/v$version/oxker_windows_x86_64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/mrjackwills/oxker/releases/download/v$version/oxker_windows_x86_64.zip"
       }
     }
   }

@@ -11,7 +11,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/oop7/YTSage/releases/download/v5.0.0b5/YTSage-v5.0.0b5-Setup.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/oop7/YTSage/releases/download/v5.0.0b5/YTSage-v5.0.0b5-Setup.exe",
       "hash": "62d8f3f51f66ce8c71d3203080cc70efa5a8becdc79ea15de2430715f6defc47"
     }
   },
@@ -47,7 +47,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/oop7/YTSage/releases/download/v$version/YTSage-v$version-Setup.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/oop7/YTSage/releases/download/v$version/YTSage-v$version-Setup.exe"
       }
     }
   }

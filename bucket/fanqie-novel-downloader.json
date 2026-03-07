@@ -7,7 +7,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/POf-L/Fanqie-novel-Downloader/releases/download/v2026.02.07.0216+85375e1/TomatoNovelDownloader-Standalone.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/POf-L/Fanqie-novel-Downloader/releases/download/v2026.02.07.0216+85375e1/TomatoNovelDownloader-Standalone.exe",
       "hash": "720b8cedc04d580dd160590588c8390a3890350fc1d5c700c2ba530309b12200"
     }
   },
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/POf-L/Fanqie-novel-Downloader/releases/download/v$version/TomatoNovelDownloader-Standalone.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/POf-L/Fanqie-novel-Downloader/releases/download/v$version/TomatoNovelDownloader-Standalone.exe"
       }
     }
   }

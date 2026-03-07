@@ -4,7 +4,7 @@
   "homepage": "https://www.rabbitmq.com",
   "license": "MPL-2.0",
   "depends": "erlang",
-  "url": "https://gh-proxy.org/https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.2.4/rabbitmq-server-windows-4.2.4.zip",
+  "url": "https://v6.gh-proxy.org/https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.2.4/rabbitmq-server-windows-4.2.4.zip",
   "hash": "a452455c9eaa302c07a2b79e47c6d736cf278b9ae9a1e3854d26223f1d484737",
   "extract_dir": "rabbitmq_server-4.2.4",
   "bin": [
@@ -27,7 +27,7 @@
     "regex": "> of RabbitMQ is <strong>([\\d.]+)</"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/rabbitmq/rabbitmq-server/releases/download/v$version/rabbitmq-server-windows-$version.zip",
+    "url": "https://v6.gh-proxy.org/https://github.com/rabbitmq/rabbitmq-server/releases/download/v$version/rabbitmq-server-windows-$version.zip",
     "extract_dir": "rabbitmq_server-$version"
   }
 }

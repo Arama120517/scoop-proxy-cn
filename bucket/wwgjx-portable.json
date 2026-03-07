@@ -5,7 +5,7 @@
   "license": "Unknown",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/ELFTS/wwgjx/releases/download/6.2.26.213/Everything-ToolBox-V6.2.26.213_Green.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/ELFTS/wwgjx/releases/download/6.2.26.213/Everything-ToolBox-V6.2.26.213_Green.7z",
       "hash": "d9395758fd41a5ab9f29741c1e1df7e634724efd70eb4af06c04519d1e345a73"
     }
   },
@@ -19,7 +19,7 @@
     "github": "https://github.com/ELFTS/wwgjx"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/ELFTS/wwgjx/releases/download/$version/Everything-ToolBox-V$version_Green.7z",
+    "url": "https://v6.gh-proxy.org/https://github.com/ELFTS/wwgjx/releases/download/$version/Everything-ToolBox-V$version_Green.7z",
     "hash": {
       "mode": "extract",
       "url": "https://github.com/ELFTS/wwgjx/releases/expanded_assets/$version",

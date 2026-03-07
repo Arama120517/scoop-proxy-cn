@@ -5,12 +5,12 @@
   "license": "LGPL 2.1",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/NyaMisty/libimobiledevice-nightly-pkg/releases/download/20260301_051224-0379c298/x86_64-mingw64.tar",
+      "url": "https://v6.gh-proxy.org/https://github.com/NyaMisty/libimobiledevice-nightly-pkg/releases/download/20260301_051224-0379c298/x86_64-mingw64.tar",
       "hash": "25163a8303bfae4012f2c6d085bfc5a97fe763149da70171451cb563ab2cf391",
       "extract_dir": "mingw64"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/NyaMisty/libimobiledevice-nightly-pkg/releases/download/20260301_051224-0379c298/i686-mingw32.tar",
+      "url": "https://v6.gh-proxy.org/https://github.com/NyaMisty/libimobiledevice-nightly-pkg/releases/download/20260301_051224-0379c298/i686-mingw32.tar",
       "hash": "f30ee88603d9926f67600cb44766e75d828b195d894cf66c77e54e5833a17e88",
       "extract_dir": "mingw32"
     }
@@ -120,11 +120,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/NyaMisty/libimobiledevice-nightly-pkg/releases/download/$version/x86_64-mingw64.tar",
+        "url": "https://v6.gh-proxy.org/https://github.com/NyaMisty/libimobiledevice-nightly-pkg/releases/download/$version/x86_64-mingw64.tar",
         "extract_dir": "mingw64"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/NyaMisty/libimobiledevice-nightly-pkg/releases/download/$version/i686-mingw32.tar",
+        "url": "https://v6.gh-proxy.org/https://github.com/NyaMisty/libimobiledevice-nightly-pkg/releases/download/$version/i686-mingw32.tar",
         "extract_dir": "mingw32"
       }
     }

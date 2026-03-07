@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/HMBSbige/NatTypeTester/releases/download/10.0.3/NatTypeTester-10.0.3-win-x64.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/HMBSbige/NatTypeTester/releases/download/10.0.3/NatTypeTester-10.0.3-win-x64.7z",
       "hash": "298680f14747165df2a23febaac90694030397759345c2c0de052f8008d12700"
     }
   },
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/HMBSbige/NatTypeTester/releases/download/$version/NatTypeTester-$version-win-x64.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/HMBSbige/NatTypeTester/releases/download/$version/NatTypeTester-$version-win-x64.7z"
       }
     },
     "hash": {

@@ -5,7 +5,7 @@
   "license": "AGPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Audiveris/audiveris/releases/download/5.9.0/Audiveris-5.9.0-windowsConsole-x86_64.msi",
+      "url": "https://v6.gh-proxy.org/https://github.com/Audiveris/audiveris/releases/download/5.9.0/Audiveris-5.9.0-windowsConsole-x86_64.msi",
       "hash": "7d0b3edcb581526b1a0a6f68fb494692774c14160abd8f1ff7c781dc1b35b560"
     }
   },
@@ -23,7 +23,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Audiveris/audiveris/releases/download/$version/Audiveris-$version-windowsConsole-x86_64.msi"
+        "url": "https://v6.gh-proxy.org/https://github.com/Audiveris/audiveris/releases/download/$version/Audiveris-$version-windowsConsole-x86_64.msi"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "GPL-3.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Tautulli/Tautulli/releases/download/v2.16.1/Tautulli-windows-v2.16.1-x64.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/Tautulli/Tautulli/releases/download/v2.16.1/Tautulli-windows-v2.16.1-x64.exe#/dl.7z",
       "hash": "e1ec11e0b61ac21f1a15d2a41f05dce42a453e46e639d60b0faa6cfde45f78ea"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Tautulli/Tautulli/releases/download/v$version/Tautulli-windows-v$version-x64.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/Tautulli/Tautulli/releases/download/v$version/Tautulli-windows-v$version-x64.exe#/dl.7z"
       }
     }
   }

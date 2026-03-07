@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/cscnk52/wechat-windows-versions/releases/download/v4.1.7.57/weixin_4.1.7.57.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/cscnk52/wechat-windows-versions/releases/download/v4.1.7.57/weixin_4.1.7.57.exe#/dl.7z",
       "hash": "3e18652176b493560dfa78658f59a06a692de35c5ef732d1c4c9b89c33a00cf6"
     }
   },
@@ -46,7 +46,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/cscnk52/wechat-windows-versions/releases/download/v$version/weixin_$version.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/cscnk52/wechat-windows-versions/releases/download/v$version/weixin_$version.exe#/dl.7z"
       }
     }
   }

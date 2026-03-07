@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/fedify-dev/fedify/releases/download/2.0.3/fedify-cli-2.0.3-windows-x86_64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/fedify-dev/fedify/releases/download/2.0.3/fedify-cli-2.0.3-windows-x86_64.zip",
       "hash": "7ac1d060883a7fbc9a50fa47ee21215185f3260ceedecebe1f64fb42ad8a7dde"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/fedify-dev/fedify/releases/download/$version/fedify-cli-$version-windows-x86_64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/fedify-dev/fedify/releases/download/$version/fedify-cli-$version-windows-x86_64.zip"
       }
     }
   }

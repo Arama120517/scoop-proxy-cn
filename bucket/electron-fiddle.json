@@ -8,11 +8,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/electron/fiddle/releases/download/v0.38.0/electron-fiddle-0.38.0-win32-x64-setup.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/electron/fiddle/releases/download/v0.38.0/electron-fiddle-0.38.0-win32-x64-setup.exe#/dl.7z",
       "hash": "ee85d90950822aab4bbb0638c316c92b56eb009a1bebcb2a4c913893e5e2f330"
     },
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/electron/fiddle/releases/download/v0.38.0/electron-fiddle-0.38.0-win32-ia32-setup.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/electron/fiddle/releases/download/v0.38.0/electron-fiddle-0.38.0-win32-ia32-setup.exe#/dl.7z",
       "hash": "9a6b2e779ab356503285cedf23feea3766d93a03b96d6aeddfe5b56b91fa6f22"
     }
   },
@@ -32,10 +32,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/electron/fiddle/releases/download/v$version/electron-fiddle-$version-win32-x64-setup.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/electron/fiddle/releases/download/v$version/electron-fiddle-$version-win32-x64-setup.exe#/dl.7z"
       },
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/electron/fiddle/releases/download/v$version/electron-fiddle-$version-win32-ia32-setup.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/electron/fiddle/releases/download/v$version/electron-fiddle-$version-win32-ia32-setup.exe#/dl.7z"
       }
     }
   }

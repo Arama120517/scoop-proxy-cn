@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/KaringX/clashmi/releases/download/v1.0.19.502/clashmi_1.0.19.502_windows_x64.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/KaringX/clashmi/releases/download/v1.0.19.502/clashmi_1.0.19.502_windows_x64.exe",
       "hash": "ebc892a5d5569afdb28e555786e9f1002783c7bd455da11683f0b1972fe98db9"
     }
   },
@@ -43,7 +43,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/KaringX/clashmi/releases/download/v$version/clashmi_$version_windows_x64.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/KaringX/clashmi/releases/download/v$version/clashmi_$version_windows_x64.exe"
       }
     }
   }

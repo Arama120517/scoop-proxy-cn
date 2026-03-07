@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/codexu/note-gen/releases/download/note-gen-v0.26.3/NoteGen_0.26.3_x64-setup.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/codexu/note-gen/releases/download/note-gen-v0.26.3/NoteGen_0.26.3_x64-setup.exe#/dl.7z",
       "hash": "905a43e2d017248992c63dd5731861e4390d26e8402ff52129bd5674fe4c0615",
       "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\icons\", \"$dir\\uninst*\" -Force -Recurse"
     }
@@ -50,7 +50,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/codexu/note-gen/releases/download/note-gen-v$version/NoteGen_$version_x64-setup.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/codexu/note-gen/releases/download/note-gen-v$version/NoteGen_$version_x64-setup.exe#/dl.7z"
       }
     },
     "hash": {

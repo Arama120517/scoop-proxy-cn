@@ -9,7 +9,7 @@
   "changelog": "",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v1.89.105/brave-v1.89.105-win32-x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v1.89.105/brave-v1.89.105-win32-x64.zip",
       "hash": "8b6d7c31180c90f1f3656ace9592db82926f60ef6af1f37f8606757ad106a307"
     }
   },
@@ -32,7 +32,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
       }
     },
     "hash": {

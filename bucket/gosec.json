@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/securego/gosec/releases/download/v2.24.7/gosec_2.24.7_windows_amd64.tar.gz",
+      "url": "https://v6.gh-proxy.org/https://github.com/securego/gosec/releases/download/v2.24.7/gosec_2.24.7_windows_amd64.tar.gz",
       "hash": "07e6230afd82a87f396b7620ad3bd475cca2f200f451675ae4919ecc03dfdde6"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/securego/gosec/releases/download/v2.24.7/gosec_2.24.7_windows_arm64.tar.gz",
+      "url": "https://v6.gh-proxy.org/https://github.com/securego/gosec/releases/download/v2.24.7/gosec_2.24.7_windows_arm64.tar.gz",
       "hash": "3bbdc066e95dbfb68cecb0e9b7fd6722b2301ddd5c2571ba9209b120cae0dbc6"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/securego/gosec/releases/download/v$version/gosec_$version_windows_amd64.tar.gz"
+        "url": "https://v6.gh-proxy.org/https://github.com/securego/gosec/releases/download/v$version/gosec_$version_windows_amd64.tar.gz"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/securego/gosec/releases/download/v$version/gosec_$version_windows_arm64.tar.gz"
+        "url": "https://v6.gh-proxy.org/https://github.com/securego/gosec/releases/download/v$version/gosec_$version_windows_arm64.tar.gz"
       }
     },
     "hash": {

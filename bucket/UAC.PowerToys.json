@@ -7,7 +7,7 @@
   },
   "notes": "",
   "depends": "dotnet-desktop-runtime",
-  "url": "https://gh-proxy.org/https://github.com/microsoft/PowerToys/releases/download/v0.97.2/PowerToysSetup-0.97.2-x64.exe#/install.exe",
+  "url": "https://v6.gh-proxy.org/https://github.com/microsoft/PowerToys/releases/download/v0.97.2/PowerToysSetup-0.97.2-x64.exe#/install.exe",
   "hash": "d0316cce8a586ce060390830fd0e3ecc298498159eeaff2472a1bf3d2616a5e4",
   "installer": {
     "script": [
@@ -47,6 +47,6 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/microsoft/PowerToys/releases/download/v$version/PowerToysSetup-$version-x64.exe#/install.exe"
+    "url": "https://v6.gh-proxy.org/https://github.com/microsoft/PowerToys/releases/download/v$version/PowerToysSetup-$version-x64.exe#/install.exe"
   }
 }

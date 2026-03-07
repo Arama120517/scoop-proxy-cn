@@ -5,11 +5,11 @@
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.23.14-beta/freetube-0.23.14-beta-win-x64-portable.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.23.14-beta/freetube-0.23.14-beta-win-x64-portable.7z",
       "hash": "c74a702024a4d918957e0d7648008bd9fdf7e6dc5b1c817e84fac662d341ba65"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.23.14-beta/freetube-0.23.14-beta-win-arm64-portable.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/FreeTubeApp/FreeTube/releases/download/v0.23.14-beta/freetube-0.23.14-beta-win-arm64-portable.7z",
       "hash": "374af774d90ac19da5e28b774070b4192bf851b3effaaed7644cb23265558aa1"
     }
   },
@@ -27,10 +27,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/FreeTubeApp/FreeTube/releases/download/v$version/freetube-$version-win-x64-portable.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/FreeTubeApp/FreeTube/releases/download/v$version/freetube-$version-win-x64-portable.7z"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/FreeTubeApp/FreeTube/releases/download/v$version/freetube-$version-win-arm64-portable.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/FreeTubeApp/FreeTube/releases/download/v$version/freetube-$version-win-arm64-portable.7z"
       }
     }
   }

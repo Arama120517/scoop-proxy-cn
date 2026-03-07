@@ -15,7 +15,7 @@
       "ffmpeg-shared"
     ]
   },
-  "url": "https://gh-proxy.org/https://github.com/mikf/gallery-dl/releases/download/v1.31.7/gallery_dl-1.31.7.tar.gz",
+  "url": "https://v6.gh-proxy.org/https://github.com/mikf/gallery-dl/releases/download/v1.31.7/gallery_dl-1.31.7.tar.gz",
   "hash": "d599cbe22326fdb74c4b398f83bbd3a37855be79efaf54a05f450deab3ad1d90",
   "extract_dir": "gallery_dl-1.31.7",
   "installer": {
@@ -33,7 +33,7 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/mikf/gallery-dl/releases/download/v$version/gallery_dl-$version.tar.gz",
+    "url": "https://v6.gh-proxy.org/https://github.com/mikf/gallery-dl/releases/download/v$version/gallery_dl-$version.tar.gz",
     "extract_dir": "gallery_dl-$version"
   }
 }

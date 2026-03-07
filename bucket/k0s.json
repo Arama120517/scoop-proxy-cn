@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/k0sproject/k0s/releases/download/v1.35.1+k0s.1/k0s-v1.35.1+k0s.1-amd64.exe#/k0s.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/k0sproject/k0s/releases/download/v1.35.1+k0s.1/k0s-v1.35.1+k0s.1-amd64.exe#/k0s.exe",
       "hash": "3d7b4a4dac4ebe7539d0abe1fe50e9ca052ad4d0269db1923befd896e75bf016"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/k0sproject/k0s/releases/download/v$version/k0s-v$version-amd64.exe#/k0s.exe",
+        "url": "https://v6.gh-proxy.org/https://github.com/k0sproject/k0s/releases/download/v$version/k0s-v$version-amd64.exe#/k0s.exe",
         "hash": {
           "url": "$baseurl/sha256sums.txt",
           "regex": "$sha256\\s\\*k0s-v$version-amd64.exe"

@@ -6,7 +6,7 @@
   "suggest": {
     "JRE with JFX": "java/zulufx21-jre"
   },
-  "url": "https://gh-proxy.org/https://github.com/HMCL-dev/HMCL/releases/download/v3.12.0.330/HMCL-3.12.0.330.exe#/HMCL.exe",
+  "url": "https://v6.gh-proxy.org/https://github.com/HMCL-dev/HMCL/releases/download/v3.12.0.330/HMCL-3.12.0.330.exe#/HMCL.exe",
   "hash": "3a1e32b94082a80f6d5a701b5769dcace4d4f032c186dc70353c080440f621ee",
   "pre_install": [
     "function ensureFile([String] $name) {",
@@ -32,6 +32,6 @@
     "jsonpath": "$.version"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/HMCL-dev/HMCL/releases/download/v$version/HMCL-$version.exe#/HMCL.exe"
+    "url": "https://v6.gh-proxy.org/https://github.com/HMCL-dev/HMCL/releases/download/v$version/HMCL-$version.exe#/HMCL.exe"
   }
 }

@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/ValveResourceFormat/ValveResourceFormat/releases/download/18.0/Source2Viewer.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/ValveResourceFormat/ValveResourceFormat/releases/download/18.0/Source2Viewer.exe",
       "hash": "53c86235d9736f62e7d4b5c038f667ecd0e89b11e2f94fa5d7ad192dedd686cd"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/ValveResourceFormat/ValveResourceFormat/releases/download/$version/Source2Viewer.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/ValveResourceFormat/ValveResourceFormat/releases/download/$version/Source2Viewer.exe"
       }
     }
   }

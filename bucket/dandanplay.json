@@ -5,7 +5,7 @@
   "license": "Unknown",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/kaedei/dandanplay/releases/download/windows-17.0.0.0/dandanplay-x64_17.0.0.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/kaedei/dandanplay/releases/download/windows-17.0.0.0/dandanplay-x64_17.0.0.zip",
       "hash": "d0e60537663b5847cafa359f4c486d07f1eb73dd8db812666680d1f6fc29eeaa"
     }
   },
@@ -39,6 +39,6 @@
     "regex": ">windows-([\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/kaedei/dandanplay/releases/download/windows-$version/dandanplay-x64_$matchHead.zip"
+    "url": "https://v6.gh-proxy.org/https://github.com/kaedei/dandanplay/releases/download/windows-$version/dandanplay-x64_$matchHead.zip"
   }
 }

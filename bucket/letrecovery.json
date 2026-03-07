@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/NORMAL-EX/LetRecovery/releases/download/Release/LetRecovery.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/NORMAL-EX/LetRecovery/releases/download/Release/LetRecovery.zip",
       "hash": "19fd55c3b2c3d1e8da6451debeeada76fa12ff473aac91ef8dadcd798e1f9b8d"
     }
   },
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/NORMAL-EX/LetRecovery/releases/download/$version/LetRecovery.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/NORMAL-EX/LetRecovery/releases/download/$version/LetRecovery.zip"
       }
     }
   }

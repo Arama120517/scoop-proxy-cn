@@ -9,11 +9,11 @@
   "notes": "https://github.com/ViCrack/scoop-bucket/blob/master/bucket/termix.json https://github.com/vicrack/scoop-bucket",
   "architecture": {
     "32bit": {
-      "url": "https://gh-proxy.org/https://github.com/Termix-SSH/Termix/releases/download/release-1.11.1-tag/termix_windows_ia32_portable.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/Termix-SSH/Termix/releases/download/release-1.11.1-tag/termix_windows_ia32_portable.zip",
       "hash": "5f75786253f5685d07c2771a3fa55bf0de7da9ab0fec5466a23db2d9d6a2b51f"
     },
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/Termix-SSH/Termix/releases/download/release-1.11.1-tag/termix_windows_x64_portable.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/Termix-SSH/Termix/releases/download/release-1.11.1-tag/termix_windows_x64_portable.zip",
       "hash": "c0410fee518d6af047565d661b312460029f4fcf413eb1f3e338a139da8aff9f"
     }
   },
@@ -31,10 +31,10 @@
   "autoupdate": {
     "architecture": {
       "32bit": {
-        "url": "https://gh-proxy.org/https://github.com/Termix-SSH/Termix/releases/download/release-$version-tag/termix_windows_ia32_portable.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/Termix-SSH/Termix/releases/download/release-$version-tag/termix_windows_ia32_portable.zip"
       },
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/Termix-SSH/Termix/releases/download/release-$version-tag/termix_windows_x64_portable.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/Termix-SSH/Termix/releases/download/release-$version-tag/termix_windows_x64_portable.zip"
       }
     }
   }

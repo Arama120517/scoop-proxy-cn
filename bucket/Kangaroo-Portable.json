@@ -9,7 +9,7 @@
   "changelog": "https://github.com/dbkangaroo/kangaroo/releases",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/dbkangaroo/kangaroo/releases/download/v9.2.1.301/kangaroo-multiple-9.2.1.301-x86_64.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/dbkangaroo/kangaroo/releases/download/v9.2.1.301/kangaroo-multiple-9.2.1.301-x86_64.exe",
       "hash": "070793d145bde7c315aa062068040caeedfff0c8715cfd4631aef2e8fbadbc52"
     }
   },
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/dbkangaroo/kangaroo/releases/download/v$version/kangaroo-multiple-$version-x86_64.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/dbkangaroo/kangaroo/releases/download/v$version/kangaroo-multiple-$version-x86_64.exe"
       }
     },
     "hash": {

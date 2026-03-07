@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/ProtonMail/proton-bridge/releases/download/v3.22.0/Bridge-Installer.exe#/dl.exe",
+      "url": "https://v6.gh-proxy.org/https://github.com/ProtonMail/proton-bridge/releases/download/v3.22.0/Bridge-Installer.exe#/dl.exe",
       "hash": "512fcaf033d5a253ab5cfa20adb90afcf20059366648782983fe911759c71c62"
     }
   },
@@ -31,7 +31,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/ProtonMail/proton-bridge/releases/download/v$version/Bridge-Installer.exe#/dl.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/ProtonMail/proton-bridge/releases/download/v$version/Bridge-Installer.exe#/dl.exe"
       }
     }
   }

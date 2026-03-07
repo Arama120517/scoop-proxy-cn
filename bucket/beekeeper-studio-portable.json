@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.0/Beekeeper-Studio-5.6.0-portable.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.0/Beekeeper-Studio-5.6.0-portable.exe#/dl.7z",
       "hash": "79b94bbda483f5aa186622ecba043742eb8793940ca39640540083b4504ba811",
       "pre_install": [
         "Expand-7ZipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
@@ -26,7 +26,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v$version/Beekeeper-Studio-$version-portable.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v$version/Beekeeper-Studio-$version-portable.exe#/dl.7z"
       }
     }
   }

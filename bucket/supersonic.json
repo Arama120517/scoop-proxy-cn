@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/dweymouth/supersonic/releases/download/v0.20.1/Supersonic-0.20.1-windows-x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/dweymouth/supersonic/releases/download/v0.20.1/Supersonic-0.20.1-windows-x64.zip",
       "hash": "218867a01aaf3cb0b7f65f354e9a446d54c4bda071b63e6ec10ae723442f2f9a"
     }
   },
@@ -19,7 +19,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/dweymouth/supersonic/releases/download/v$version/Supersonic-$version-windows-x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/dweymouth/supersonic/releases/download/v$version/Supersonic-$version-windows-x64.zip"
       }
     }
   }

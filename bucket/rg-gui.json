@@ -4,7 +4,7 @@
   "homepage": "https://github.com/kcowolf/rg-gui",
   "license": "MIT",
   "depends": "windowsdesktop-runtime-lts",
-  "url": "https://gh-proxy.org/https://github.com/kcowolf/rg-gui/releases/download/v0.5.0/rg-gui-v0.5.0.zip",
+  "url": "https://v6.gh-proxy.org/https://github.com/kcowolf/rg-gui/releases/download/v0.5.0/rg-gui-v0.5.0.zip",
   "hash": "9b5bd75ec2a556a783985c1931b6fab9f148739ed4f7146c2c4429dc4f8c73db",
   "bin": "rg-gui.exe",
   "shortcuts": [
@@ -15,6 +15,6 @@
   ],
   "checkver": "github",
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/kcowolf/rg-gui/releases/download/v$version/rg-gui-v$version.zip"
+    "url": "https://v6.gh-proxy.org/https://github.com/kcowolf/rg-gui/releases/download/v$version/rg-gui-v$version.zip"
   }
 }

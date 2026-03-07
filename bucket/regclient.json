@@ -9,9 +9,9 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.2/regctl-windows-amd64.exe#/regctl.exe",
-        "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.2/regbot-windows-amd64.exe#/regbot.exe",
-        "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.2/regsync-windows-amd64.exe#/regsync.exe"
+        "https://v6.gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.2/regctl-windows-amd64.exe#/regctl.exe",
+        "https://v6.gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.2/regbot-windows-amd64.exe#/regbot.exe",
+        "https://v6.gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.2/regsync-windows-amd64.exe#/regsync.exe"
       ],
       "hash": [
         "698ae278c412821a487e903f51d30838b176886482a5f953666340a961c452e5",
@@ -32,9 +32,9 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regctl-windows-amd64.exe#/regctl.exe",
-          "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regbot-windows-amd64.exe#/regbot.exe",
-          "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regsync-windows-amd64.exe#/regsync.exe"
+          "https://v6.gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regctl-windows-amd64.exe#/regctl.exe",
+          "https://v6.gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regbot-windows-amd64.exe#/regbot.exe",
+          "https://v6.gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regsync-windows-amd64.exe#/regsync.exe"
         ]
       }
     }

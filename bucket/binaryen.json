@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/WebAssembly/binaryen/releases/download/version_126/binaryen-version_126-x86_64-windows.tar.gz",
+      "url": "https://v6.gh-proxy.org/https://github.com/WebAssembly/binaryen/releases/download/version_126/binaryen-version_126-x86_64-windows.tar.gz",
       "hash": "88dd0d0c5904042ae4c6585a5dc05ced908e9a6ecc248d9ff40497f3e6687c65"
     }
   },
@@ -30,7 +30,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/WebAssembly/binaryen/releases/download/version_$version/binaryen-version_$version-x86_64-windows.tar.gz",
+        "url": "https://v6.gh-proxy.org/https://github.com/WebAssembly/binaryen/releases/download/version_$version/binaryen-version_$version-x86_64-windows.tar.gz",
         "hash": {
           "url": "$url.sha256"
         }

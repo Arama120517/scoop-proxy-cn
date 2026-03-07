@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/jj-vcs/jj/releases/download/v0.39.0/jj-v0.39.0-x86_64-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/jj-vcs/jj/releases/download/v0.39.0/jj-v0.39.0-x86_64-pc-windows-msvc.zip",
       "hash": "53be7e277e5f0396621ccdda509904e4f88fe8e517b78ce20176269b7e97d378"
     },
     "arm64": {
-      "url": "https://gh-proxy.org/https://github.com/jj-vcs/jj/releases/download/v0.39.0/jj-v0.39.0-aarch64-pc-windows-msvc.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/jj-vcs/jj/releases/download/v0.39.0/jj-v0.39.0-aarch64-pc-windows-msvc.zip",
       "hash": "c3da2f7bec13dd2f5360d60b479436f70908152ec348673360154399cf06ad70"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/jj-vcs/jj/releases/download/v$version/jj-v$version-x86_64-pc-windows-msvc.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/jj-vcs/jj/releases/download/v$version/jj-v$version-x86_64-pc-windows-msvc.zip"
       },
       "arm64": {
-        "url": "https://gh-proxy.org/https://github.com/jj-vcs/jj/releases/download/v$version/jj-v$version-aarch64-pc-windows-msvc.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/jj-vcs/jj/releases/download/v$version/jj-v$version-aarch64-pc-windows-msvc.zip"
       }
     }
   }

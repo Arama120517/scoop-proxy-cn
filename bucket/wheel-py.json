@@ -4,7 +4,7 @@
   "description": "Implementation of the Python wheel packaging standard.",
   "license": "MIT",
   "depends": "python-bucket-utils",
-  "url": "https://gh-proxy.org/https://github.com/pypa/wheel/archive/0.46.3.zip",
+  "url": "https://v6.gh-proxy.org/https://github.com/pypa/wheel/archive/0.46.3.zip",
   "hash": "e3fadbecdddf9e96f925b13187205ae0aef139e7e2daa85ea4772dfb88c511ed",
   "extract_dir": "wheel-0.46.3",
   "installer": {
@@ -22,7 +22,7 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/pypa/wheel/archive/$version.zip",
+    "url": "https://v6.gh-proxy.org/https://github.com/pypa/wheel/archive/$version.zip",
     "extract_dir": "wheel-$version"
   }
 }

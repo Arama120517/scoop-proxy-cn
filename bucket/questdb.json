@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/questdb/questdb/releases/download/9.3.3/questdb-9.3.3-no-jre-bin.tar.gz",
+      "url": "https://v6.gh-proxy.org/https://github.com/questdb/questdb/releases/download/9.3.3/questdb-9.3.3-no-jre-bin.tar.gz",
       "hash": "cc83a90d0de5669ba4c11749fd1a8180149d9fa8fd39e8681f563994ad58bb0d",
       "extract_dir": "questdb-9.3.3-no-jre-bin"
     }
@@ -25,7 +25,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/questdb/questdb/releases/download/$version/questdb-$version-no-jre-bin.tar.gz",
+        "url": "https://v6.gh-proxy.org/https://github.com/questdb/questdb/releases/download/$version/questdb-$version-no-jre-bin.tar.gz",
         "extract_dir": "questdb-$version-no-jre-bin"
       }
     }

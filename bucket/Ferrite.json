@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/OlaProeis/Ferrite/releases/download/v0.2.6.1/ferrite-portable-windows-x64.zip",
+      "url": "https://v6.gh-proxy.org/https://github.com/OlaProeis/Ferrite/releases/download/v0.2.6.1/ferrite-portable-windows-x64.zip",
       "hash": "aceb6909b68a32e91ad0608d222fbdb25a2b04eb5a6bd5de882ecfd1c106187f"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/OlaProeis/Ferrite/releases/download/v$version/ferrite-portable-windows-x64.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/OlaProeis/Ferrite/releases/download/v$version/ferrite-portable-windows-x64.zip"
       }
     }
   }

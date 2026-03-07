@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.org/https://github.com/ldx123000/Hydrogen-Music/releases/download/v0.5.9/Hydrogen.Music.0.5.9.exe#/dl.7z",
+      "url": "https://v6.gh-proxy.org/https://github.com/ldx123000/Hydrogen-Music/releases/download/v0.5.9/Hydrogen.Music.0.5.9.exe#/dl.7z",
       "hash": "89d1eb833d58f9716575b8683b96c4228e85246cb550166f786675df258cee1f",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -45,7 +45,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.org/https://github.com/ldx123000/Hydrogen-Music/releases/download/v$version/Hydrogen.Music.$version.exe#/dl.7z"
+        "url": "https://v6.gh-proxy.org/https://github.com/ldx123000/Hydrogen-Music/releases/download/v$version/Hydrogen.Music.$version.exe#/dl.7z"
       }
     }
   }

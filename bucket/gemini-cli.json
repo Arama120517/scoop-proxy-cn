@@ -6,7 +6,7 @@
   "suggest": {
     "nodejs": "main/nodejs-lts"
   },
-  "url": "https://gh-proxy.org/https://github.com/google-gemini/gemini-cli/releases/download/v0.32.1/gemini.js",
+  "url": "https://v6.gh-proxy.org/https://github.com/google-gemini/gemini-cli/releases/download/v0.32.1/gemini.js",
   "hash": "f46a73cea63ee6fbc3852b0a9cad633afc7941759e1b7cbb401d9460afeb676f",
   "bin": [
     [
@@ -20,6 +20,6 @@
     "regex": "/v([\\d.]+)\"(?!-)"
   },
   "autoupdate": {
-    "url": "https://gh-proxy.org/https://github.com/google-gemini/gemini-cli/releases/download/v$version/gemini.js"
+    "url": "https://v6.gh-proxy.org/https://github.com/google-gemini/gemini-cli/releases/download/v$version/gemini.js"
   }
 }
