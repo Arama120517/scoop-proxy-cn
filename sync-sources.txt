@@ -4409,6 +4409,7 @@ bucket\franz-portapps.json, Velgus/Scoop-Portapps, 1
 bucket\franz.json, ScoopInstaller/Extras, 1
 bucket\freac-continuous.json, ScoopInstaller/Versions, 1
 bucket\freac.json, ScoopInstaller/Extras, 1
+bucket\fred-tv.json, ScoopInstaller/Extras, 1
 bucket\free-alarm-clock.json, yuusakuri/scoop-bucket, 0
 bucket\free-countdown-timer.json, yuusakuri/scoop-bucket, 0
 bucket\free-manga-downloader.json, ScoopInstaller/Extras, 1
@@ -8152,6 +8153,7 @@ bucket\pomsky.json, ScoopInstaller/Main, 1
 bucket\popeye.json, ScoopInstaller/Main, 1
 bucket\poppler.json, ScoopInstaller/Main, 1
 bucket\poppler068.json, ScoopInstaller/Versions, 0
+bucket\port-kill-console.json, ScoopInstaller/Main, 1
 bucket\portable-build-tools.json, amorphobia/siku, 1
 bucket\portable-registrator.json, naderi/scoop-bucket, 1
 bucket\portable-virtualbox.json, ScoopInstaller/Extras, 0
