@@ -2,7 +2,7 @@
   "homepage": "http://drjava.org",
   "license": "BSD-3-Clause",
   "version": "beta-20190813-220051",
-  "url": "https://downloads.sourceforge.net/project/drjava/1.%20DrJava%20Stable%20Releases/drjava-beta-20190813-220051/drjava-beta-20190813-220051.jar#/drjava.jar",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/drjava/1.%20DrJava%20Stable%20Releases/drjava-beta-20190813-220051/drjava-beta-20190813-220051.jar#/drjava.jar",
   "hash": "sha1:8490e4a9ddaee547abd0f8bc35574d98ad9dcaec",
   "installer": {
     "script": "Set-Content \"$dir\\DrJava.bat\" '@start javaw.exe -jar \"%~dp0\\DrJava.jar\" %*' -Encoding Ascii"
@@ -19,6 +19,6 @@
     "regex": "drjava-(beta-\\d{8}-\\d{6})"
   },
   "autoupdate": {
-    "url": "https://downloads.sourceforge.net/project/drjava/1.%20DrJava%20Stable%20Releases/drjava-$version/drjava-$version.jar#/drjava.jar"
+    "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/drjava/1.%20DrJava%20Stable%20Releases/drjava-$version/drjava-$version.jar#/drjava.jar"
   }
 }

@@ -5,7 +5,7 @@
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://downloads.sourceforge.net/project/anytxt/Anytxt_1.3.2477_Windows_X86_64_OCR.exe",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/anytxt/Anytxt_1.3.2477_Windows_X86_64_OCR.exe",
       "hash": "sha1:1053ae90e7a053e95c01d44d7dac3ec017bb76e2"
     },
     "32bit": {

@@ -3,7 +3,7 @@
   "description": "A desktop search application",
   "license": "EPL-1.0",
   "version": "1.1.25",
-  "url": "https://downloads.sourceforge.net/project/docfetcher/docfetcher/1.1.25/docfetcher-1.1.25-portable.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/docfetcher/docfetcher/1.1.25/docfetcher-1.1.25-portable.zip",
   "hash": "sha1:8d04780b4ae8e42a053e50820fc144824f454c29",
   "extract_dir": "DocFetcher-1.1.25",
   "installer": {
@@ -35,7 +35,7 @@
     "regex": "/docfetcher/([\\d.]+)/docfetcher_[\\d.]+_win32_setup.exe"
   },
   "autoupdate": {
-    "url": "https://downloads.sourceforge.net/project/docfetcher/docfetcher/$version/docfetcher-$version-portable.zip",
+    "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/docfetcher/docfetcher/$version/docfetcher-$version-portable.zip",
     "hash": {
       "mode": "sourceforge"
     },

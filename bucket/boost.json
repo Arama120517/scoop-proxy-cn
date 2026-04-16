@@ -5,11 +5,11 @@
   "license": "BSL-1.0",
   "architecture": {
     "64bit": {
-      "url": "https://downloads.sourceforge.net/project/boost/boost-binaries/1.90.0/boost_1_90_0-msvc-14.3-64.exe",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/boost/boost-binaries/1.90.0/boost_1_90_0-msvc-14.3-64.exe",
       "hash": "sha1:9e9c0eaed2d4ede92f9842726383cb9f23232d2a"
     },
     "32bit": {
-      "url": "https://downloads.sourceforge.net/project/boost/boost-binaries/1.90.0/boost_1_90_0-msvc-14.3-32.exe",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/boost/boost-binaries/1.90.0/boost_1_90_0-msvc-14.3-32.exe",
       "hash": "sha1:c4fa6570fff4c41645579b83799363440d9457ca"
     }
   },
@@ -26,10 +26,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://downloads.sourceforge.net/project/boost/boost-binaries/$version/boost_$underscoreVersion-msvc-$matchMsvc-64.exe"
+        "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/boost/boost-binaries/$version/boost_$underscoreVersion-msvc-$matchMsvc-64.exe"
       },
       "32bit": {
-        "url": "https://downloads.sourceforge.net/project/boost/boost-binaries/$version/boost_$underscoreVersion-msvc-$matchMsvc-32.exe"
+        "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/boost/boost-binaries/$version/boost_$underscoreVersion-msvc-$matchMsvc-32.exe"
       }
     }
   }

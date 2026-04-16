@@ -6,11 +6,11 @@
   "changelog": "https://sourceforge.net/projects/capture2text/files/Capture2Text/Capture2Text_v4.6.3/",
   "architecture": {
     "64bit": {
-      "url": "https://sourceforge.net/projects/capture2text/files/Capture2Text/Capture2Text_v4.6.3/Capture2Text_v4.6.3_64bit.zip/download#/dl.zip",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://sourceforge.net/projects/capture2text/files/Capture2Text/Capture2Text_v4.6.3/Capture2Text_v4.6.3_64bit.zip/download#/dl.zip",
       "hash": "d33847064c4edf726c61b35f3b753470546be671561cdb35fba85dfd1ad170fa"
     },
     "32bit": {
-      "url": "https://sourceforge.net/projects/capture2text/files/Capture2Text/Capture2Text_v4.6.3/Capture2Text_v4.6.3_32bit.zip/download#/dl.zip",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://sourceforge.net/projects/capture2text/files/Capture2Text/Capture2Text_v4.6.3/Capture2Text_v4.6.3_32bit.zip/download#/dl.zip",
       "hash": "789f2d29f855cfc4533fea71c8dc5ce7dfd58c26e16b83159f77385b8d8f8afe"
     }
   },
@@ -36,13 +36,13 @@
     "changelog": "https://sourceforge.net/projects/capture2text/files/Capture2Text/Capture2Text_v$version/",
     "architecture": {
       "64bit": {
-        "url": "https://sourceforge.net/projects/capture2text/files/Capture2Text/Capture2Text_v$version/Capture2Text_v$version_64bit.zip/download#/dl.zip",
+        "url": "https://v6.gh-proxy.org/sourceforge/https://sourceforge.net/projects/capture2text/files/Capture2Text/Capture2Text_v$version/Capture2Text_v$version_64bit.zip/download#/dl.zip",
         "hash": {
           "mode": "sourceforge"
         }
       },
       "32bit": {
-        "url": "https://sourceforge.net/projects/capture2text/files/Capture2Text/Capture2Text_v$version/Capture2Text_v$version_32bit.zip/download#/dl.zip",
+        "url": "https://v6.gh-proxy.org/sourceforge/https://sourceforge.net/projects/capture2text/files/Capture2Text/Capture2Text_v$version/Capture2Text_v$version_32bit.zip/download#/dl.zip",
         "hash": {
           "mode": "sourceforge"
         }

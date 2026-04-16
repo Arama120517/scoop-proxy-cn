@@ -3,7 +3,7 @@
   "description": "A comprehensive benchmarking software that supports 64-bit (x64/ARM64), many-core, and multilingual (48+ languages).",
   "homepage": "https://crystalmark.info/en/software/crystalmarkretro/",
   "license": "MIT",
-  "url": "https://zenlayer.dl.sourceforge.net/project/crystalmarkretro/2.1.0/CrystalMarkRetro2_1_0Shizuku.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://zenlayer.dl.sourceforge.net/project/crystalmarkretro/2.1.0/CrystalMarkRetro2_1_0Shizuku.zip",
   "hash": "sha1:c540f147368d62d3edf94cbae959b298278b9ee1",
   "architecture": {
     "64bit": {
@@ -48,6 +48,6 @@
     "regex": "CrystalMark Retro ([\\w\\.]+) &#8211;"
   },
   "autoupdate": {
-    "url": "https://zenlayer.dl.sourceforge.net/project/crystalmarkretro/$version/CrystalMarkRetro$underscoreVersionShizuku.zip"
+    "url": "https://v6.gh-proxy.org/sourceforge/https://zenlayer.dl.sourceforge.net/project/crystalmarkretro/$version/CrystalMarkRetro$underscoreVersionShizuku.zip"
   }
 }

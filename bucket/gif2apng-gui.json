@@ -3,7 +3,7 @@
   "description": "This program converts GIF animations into animated PNG format.",
   "homepage": "https://sourceforge.net/projects/gif2apng",
   "license": "zlib-acknowledgement",
-  "url": "https://downloads.sourceforge.net/project/gif2apng/1.9/gif2apng_gui-1.9-bin-win32.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/gif2apng/1.9/gif2apng_gui-1.9-bin-win32.zip",
   "hash": "sha1:993fe4309e0eedee6c9732fc4bbce865d675053a",
   "shortcuts": [
     [
@@ -16,6 +16,6 @@
     "regex": "gif2apng_gui-([\\d.]+)-bin"
   },
   "autoupdate": {
-    "url": "https://downloads.sourceforge.net/project/gif2apng/$version/gif2apng_gui-$version-bin-win32.zip"
+    "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/gif2apng/$version/gif2apng_gui-$version-bin-win32.zip"
   }
 }

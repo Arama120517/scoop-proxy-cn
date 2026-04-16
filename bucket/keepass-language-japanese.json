@@ -3,7 +3,7 @@
   "description": "Light-weight and easy-to-use password manager translation for Japanese",
   "homepage": "https://keepass.info/translations.html",
   "license": "GPL-2.0-or-later",
-  "url": "https://downloads.sourceforge.net/project/keepass/Translations%202.x/2.61/KeePass-2.61-Japanese.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/keepass/Translations%202.x/2.61/KeePass-2.61-Japanese.zip",
   "hash": "sha1:6595c35fdf1a3b670b550dda94186a4506bfe006",
   "depends": "extras/keepass",
   "installer": {
@@ -17,6 +17,6 @@
     "regex": "KeePass-(2.[\\d.]+)-Japanese.zip"
   },
   "autoupdate": {
-    "url": "https://downloads.sourceforge.net/project/keepass/Translations%20$majorVersion.x/$version/KeePass-$version-Japanese.zip"
+    "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/keepass/Translations%20$majorVersion.x/$version/KeePass-$version-Japanese.zip"
   }
 }

@@ -6,7 +6,7 @@
   "suggest": {
     "git": "git"
   },
-  "url": "https://downloads.sourceforge.net/project/tkdiff/tkdiff/6.0/tkdiff-6-0.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/tkdiff/tkdiff/6.0/tkdiff-6-0.zip",
   "hash": "sha1:c1af5d922bfaf51d4c078ad82c4a7c588140c8f6",
   "extract_dir": "tkdiff-6-0",
   "installer": {
@@ -18,7 +18,7 @@
     "re": "title=\"/tkdiff/([\\d.]+)/tkdiff-[\\d-]+.zip"
   },
   "autoupdate": {
-    "url": "https://downloads.sourceforge.net/project/tkdiff/tkdiff/$version/tkdiff-$dashVersion.zip",
+    "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/tkdiff/tkdiff/$version/tkdiff-$dashVersion.zip",
     "extract_dir": "tkdiff-$dashVersion"
   }
 }

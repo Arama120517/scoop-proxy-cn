@@ -4,7 +4,7 @@
   "homepage": "http://acrylic.sourceforge.net/",
   "license": "GPL-2.0-only",
   "notes": "Install the service with InstallAcrylicService.bat in the programm directory.",
-  "url": "https://downloads.sourceforge.net/project/acrylic/Acrylic/2.2.1/Acrylic-Portable.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/acrylic/Acrylic/2.2.1/Acrylic-Portable.zip",
   "hash": "sha1:241899a685f61a432c41ba1324c7eb88d07e3678",
   "pre_install": [
     "    # Create files for persisting",
@@ -36,6 +36,6 @@
     "regex": "/Acrylic/([\\d.]+)/Acrylic-Portable.zip"
   },
   "autoupdate": {
-    "url": "https://downloads.sourceforge.net/project/acrylic/Acrylic/$version/Acrylic-Portable.zip"
+    "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/acrylic/Acrylic/$version/Acrylic-Portable.zip"
   }
 }

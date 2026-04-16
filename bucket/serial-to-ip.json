@@ -10,7 +10,7 @@
   "#depends": [
     "dotnet-framework-4.8"
   ],
-  "url": "https://sourceforge.net/projects/serialtoip/files/SerialToIPGUI_v1.9_2016-01-23.zip/download#/setup.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://sourceforge.net/projects/serialtoip/files/SerialToIPGUI_v1.9_2016-01-23.zip/download#/setup.zip",
   "hash": "a68352fbff76b811984e84f98b84e6f1735958793d5e2f27763f2fb90e4b97cc",
   "bin": "SerialToIPGUI.exe",
   "shortcuts": [
@@ -24,6 +24,6 @@
     "regex": "SerialToIPGUI_v([\\d.]+)_(?<year>\\d{4})-(?<month>\\d{2})-(?<day>\\d{2})\\.zip"
   },
   "autoupdate": {
-    "url": "https://sourceforge.net/projects/serialtoip/files/SerialToIPGUI_v$version_$matchYear-$matchMonth-$matchDay.zip/download#/setup.zip"
+    "url": "https://v6.gh-proxy.org/sourceforge/https://sourceforge.net/projects/serialtoip/files/SerialToIPGUI_v$version_$matchYear-$matchMonth-$matchDay.zip/download#/setup.zip"
   }
 }

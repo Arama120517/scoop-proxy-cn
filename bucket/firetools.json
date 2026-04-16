@@ -5,7 +5,7 @@
   "license": "Freeware",
   "architecture": {
     "64bit": {
-      "url": "https://sourceforge.net/projects/firetools/files/fireTools-win64-v1.0.1.5.zip/download#/dl.zip",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://sourceforge.net/projects/firetools/files/fireTools-win64-v1.0.1.5.zip/download#/dl.zip",
       "hash": "e778575e63116e18538da15d04c6dff84c6f10dc38754f7efd0c3ba8693262a0",
       "extract_dir": "fireTools"
     }
@@ -23,7 +23,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://sourceforge.net/projects/firetools/files/fireTools-win64-v$version.zip/download#/dl.zip"
+        "url": "https://v6.gh-proxy.org/sourceforge/https://sourceforge.net/projects/firetools/files/fireTools-win64-v$version.zip/download#/dl.zip"
       }
     }
   }

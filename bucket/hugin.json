@@ -5,7 +5,7 @@
   "license": "GPL-2.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://downloads.sourceforge.net/project/hugin/hugin/hugin-2025.0/Hugin-2025.0.1-win64.msi",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/hugin/hugin/hugin-2025.0/Hugin-2025.0.1-win64.msi",
       "hash": "sha1:f9dc9c1eca4bee02dc69ec9a1cd2c0524b371c3d"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://downloads.sourceforge.net/project/hugin/hugin/hugin-$majorVersion.$minorVersion/Hugin-$version-win64.msi"
+        "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/hugin/hugin/hugin-$majorVersion.$minorVersion/Hugin-$version-win64.msi"
       }
     }
   }

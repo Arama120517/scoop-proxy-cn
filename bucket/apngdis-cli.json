@@ -5,11 +5,11 @@
   "license": "zlib-acknowledgement",
   "architecture": {
     "64bit": {
-      "url": "https://downloads.sourceforge.net/project/apngdis/2.9/apngdis-2.9-bin-win64.zip",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/apngdis/2.9/apngdis-2.9-bin-win64.zip",
       "hash": "sha1:b76167f39772577092f25ce15d60c2f03e229803"
     },
     "32bit": {
-      "url": "https://downloads.sourceforge.net/project/apngdis/2.9/apngdis-2.9-bin-win32.zip",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/apngdis/2.9/apngdis-2.9-bin-win32.zip",
       "hash": "sha1:820dc7c647f020ceb4d9e476b8d4b10542b00b7a"
     }
   },
@@ -21,10 +21,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://downloads.sourceforge.net/project/apngdis/$version/apngdis-$version-bin-win64.zip"
+        "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/apngdis/$version/apngdis-$version-bin-win64.zip"
       },
       "32bit": {
-        "url": "https://downloads.sourceforge.net/project/apngdis/$version/apngdis-$version-bin-win32.zip"
+        "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/apngdis/$version/apngdis-$version-bin-win32.zip"
       }
     }
   }
