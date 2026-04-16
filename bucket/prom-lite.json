@@ -6,7 +6,7 @@
   "suggest": {
     "JRE 8 with JFX": "java/zulufx8-jre"
   },
-  "url": "https://sourceforge.net/projects/prom/files/ProM/Lite%201.4/prom-lite-1.4-all-platforms.zip/download#/dl.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://sourceforge.net/projects/prom/files/ProM/Lite%201.4/prom-lite-1.4-all-platforms.zip/download#/dl.zip",
   "hash": "6a6f2837b95d98eafe3ba553df75e7f8e46d8aceb3bcb0e5220e5f2d3e0717ee",
   "pre_install": "ensure \"$dir\\packages\"",
   "shortcuts": [
@@ -21,7 +21,7 @@
     "regex": "Lite ([\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://sourceforge.net/projects/prom/files/ProM/Lite%20$version/prom-lite-$version-all-platforms.zip/download#/dl.zip",
+    "url": "https://v6.gh-proxy.org/sourceforge/https://sourceforge.net/projects/prom/files/ProM/Lite%20$version/prom-lite-$version-all-platforms.zip/download#/dl.zip",
     "shortcuts": [
       [
         "ProMLite14.bat",

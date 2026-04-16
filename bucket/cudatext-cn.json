@@ -6,8 +6,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://downloads.sourceforge.net/project/cudatext/release/1.234.0.2/cudatext-windows-amd64-1.234.0.2.zip",
-        "https://downloads.sourceforge.net/project/cudatext/addons/translations/translation.zh_CN.zip"
+        "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/cudatext/release/1.234.0.2/cudatext-windows-amd64-1.234.0.2.zip",
+        "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/cudatext/addons/translations/translation.zh_CN.zip"
       ],
       "hash": [
         "sha1:d3d27ab5f2f17f254933f54d1f9f270585f3e9a5",
@@ -40,7 +40,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://downloads.sourceforge.net/project/cudatext/release/$version/cudatext-windows-amd64-$version.zip"
+        "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/cudatext/release/$version/cudatext-windows-amd64-$version.zip"
       }
     }
   }

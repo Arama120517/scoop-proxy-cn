@@ -3,7 +3,7 @@
   "description": "Free open-source C/C++/Fortran IDE (standalone version)",
   "license": "GPL-3.0-only",
   "homepage": "http://www.codeblocks.org",
-  "url": "https://downloads.sourceforge.net/project/codeblocks/Binaries/25.03/Windows/codeblocks-25.03-nosetup.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/codeblocks/Binaries/25.03/Windows/codeblocks-25.03-nosetup.zip",
   "hash": "sha1:585d134859243606d31ec67f991aae07eaa54757",
   "notes": [
     "This is the standalone version of the Code::Blocks IDE (does not include compilers/debuggers)",
@@ -22,6 +22,6 @@
     "regex": "Binaries/([\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://downloads.sourceforge.net/project/codeblocks/Binaries/$version/Windows/codeblocks-$version-nosetup.zip"
+    "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/codeblocks/Binaries/$version/Windows/codeblocks-$version-nosetup.zip"
   }
 }

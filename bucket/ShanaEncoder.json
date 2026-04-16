@@ -6,7 +6,7 @@
     "identifier": "Freeware",
     "url": "https://shana.pe.kr/license"
   },
-  "url": "https://downloads.sourceforge.net/project/shanaencoder/ShanaEncoder7.3.exe#dl.7z",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/shanaencoder/ShanaEncoder7.3.exe#dl.7z",
   "hash": "sha1:c68c4185a34c68fe81c31cc39a02bbfb9dd39ec5",
   "shortcuts": [
     [
@@ -20,6 +20,6 @@
     "regex": "ShanaEncoder([\\d.]+).exe"
   },
   "autoupdate": {
-    "url": "https://downloads.sourceforge.net/project/shanaencoder/ShanaEncoder$version.exe#dl.7z"
+    "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/shanaencoder/ShanaEncoder$version.exe#dl.7z"
   }
 }

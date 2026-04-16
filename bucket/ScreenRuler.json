@@ -5,7 +5,7 @@
   "license": {
     "identifier": "BSD-3-Clause"
   },
-  "url": "https://master.dl.sourceforge.net/project/screenruler/v.0.10.0/ScreenRuler-v.0.10.0-Portable.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://master.dl.sourceforge.net/project/screenruler/v.0.10.0/ScreenRuler-v.0.10.0-Portable.zip",
   "hash": "sha1:35110fea2146913e66b6dac049fa315c8820cef5",
   "extract_dir": "ScreenRuler-v.0.10.0-Portable",
   "bin": "screenruler.exe",
@@ -22,7 +22,7 @@
     "regex": "v\\.([\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://master.dl.sourceforge.net/project/screenruler/v.$version/ScreenRuler-v.$version-Portable.zip",
+    "url": "https://v6.gh-proxy.org/sourceforge/https://master.dl.sourceforge.net/project/screenruler/v.$version/ScreenRuler-v.$version-Portable.zip",
     "extract_dir": "ScreenRuler-v.$version-Portable"
   }
 }

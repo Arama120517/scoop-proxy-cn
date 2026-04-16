@@ -38,7 +38,7 @@
   "autoupdate": {
     "url": "https://sourceforge.net/projects/tomato-extra/files/apps/RegistryWorkshop-$version.7z",
     "hash": {
-      "url": "https://master.dl.sourceforge.net/project/tomato-extra/apps/sha256sum.txt"
+      "url": "https://v6.gh-proxy.org/sourceforge/https://master.dl.sourceforge.net/project/tomato-extra/apps/sha256sum.txt"
     }
   }
 }

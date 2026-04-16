@@ -3,7 +3,7 @@
   "description": "A simple disk benchmark software.",
   "homepage": "https://crystalmark.info/en/",
   "license": "MIT",
-  "url": "https://zenlayer.dl.sourceforge.net/project/crystaldiskmark/9.0.2/CrystalDiskMark9_0_2Shizuku.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://zenlayer.dl.sourceforge.net/project/crystaldiskmark/9.0.2/CrystalDiskMark9_0_2Shizuku.zip",
   "hash": "sha1:4a754c851dec89c1f5cb923aa9a010f9ba59cbbc",
   "architecture": {
     "64bit": {
@@ -48,6 +48,6 @@
     "regex": "CrystalDiskMark ([\\w\\.]+) &#8211;"
   },
   "autoupdate": {
-    "url": "https://zenlayer.dl.sourceforge.net/project/crystaldiskmark/$version/CrystalDiskMark$underscoreVersionShizuku.zip"
+    "url": "https://v6.gh-proxy.org/sourceforge/https://zenlayer.dl.sourceforge.net/project/crystaldiskmark/$version/CrystalDiskMark$underscoreVersionShizuku.zip"
   }
 }

@@ -3,7 +3,7 @@
   "description": "Capture clipboard objects and allows user to select and paste one in any program",
   "homepage": "https://clip-angel.sourceforge.io/",
   "license": "GPL-3.0-or-later",
-  "url": "https://downloads.sourceforge.net/project/clip-angel/ClipAngel%202.22.zip",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/clip-angel/ClipAngel%202.22.zip",
   "hash": "sha1:c3c0fe4437f58fe4229c69ba9dd7ebf214e20e86",
   "persist": "UserSettings",
   "shortcuts": [
@@ -18,6 +18,6 @@
     "regex": "ClipAngel ([\\d.]+).zip"
   },
   "autoupdate": {
-    "url": "https://downloads.sourceforge.net/project/clip-angel/ClipAngel%20$version.zip"
+    "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/clip-angel/ClipAngel%20$version.zip"
   }
 }

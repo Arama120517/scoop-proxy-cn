@@ -4,11 +4,11 @@
   "version": "7.5.1",
   "architecture": {
     "64bit": {
-      "url": "https://downloads.sourceforge.net/project/swiftsearch/files/Version%207.5.1/SwiftSearch64.exe",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/swiftsearch/files/Version%207.5.1/SwiftSearch64.exe",
       "hash": "sha1:3badfd1b52a537184be818aaabfd6fb80caa75b9"
     },
     "32bit": {
-      "url": "https://downloads.sourceforge.net/project/swiftsearch/files/Version%207.5.1/SwiftSearch32.exe",
+      "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/swiftsearch/files/Version%207.5.1/SwiftSearch32.exe",
       "hash": "sha1:b7bf3af4c3438381df4419cfec8d9b2301c3ca4b"
     }
   },
@@ -20,13 +20,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://downloads.sourceforge.net/project/swiftsearch/files/Version%20$version/SwiftSearch64.exe",
+        "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/swiftsearch/files/Version%20$version/SwiftSearch64.exe",
         "hash": {
           "mode": "sourceforge"
         }
       },
       "32bit": {
-        "url": "https://downloads.sourceforge.net/project/swiftsearch/files/Version%20$version/SwiftSearch32.exe",
+        "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/swiftsearch/files/Version%20$version/SwiftSearch32.exe",
         "hash": {
           "mode": "sourceforge"
         }

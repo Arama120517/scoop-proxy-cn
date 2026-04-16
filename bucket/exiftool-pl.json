@@ -4,7 +4,7 @@
   "homepage": "https://exiftool.org",
   "license": "GPL-1.0-or-later|Artistic-1.0-Perl",
   "depends": "main/perl",
-  "url": "https://downloads.sourceforge.net/project/exiftool/Image-ExifTool-13.56.tar.gz",
+  "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/exiftool/Image-ExifTool-13.56.tar.gz",
   "extract_dir": "Image-ExifTool-13.56",
   "hash": "sha1:56e806b5c29868f5ca0c39359fc379fa02293a17",
   "pre_install": [
@@ -19,7 +19,7 @@
     "regex": "\\A([\\d.]+)\\Z"
   },
   "autoupdate": {
-    "url": "https://downloads.sourceforge.net/project/exiftool/Image-ExifTool-$version.tar.gz",
+    "url": "https://v6.gh-proxy.org/sourceforge/https://downloads.sourceforge.net/project/exiftool/Image-ExifTool-$version.tar.gz",
     "extract_dir": "Image-ExifTool-$version"
   }
 }
