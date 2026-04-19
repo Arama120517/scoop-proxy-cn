@@ -17,7 +17,7 @@
     "at any time"
   ],
   "enabledManagers": [
-    "js",
+    "npm",
     "github-actions"
   ],
   "packageRules": [
