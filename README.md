@@ -175,7 +175,6 @@ scoop bucket add spc https://gitee.com/wlzwme/scoop-proxy-cn.git
 - [TheRandomLabs/Scoop-Spotify](https://github.com/TheRandomLabs/Scoop-Spotify)
 - [Paxxs/Cluttered-bucket](https://github.com/Paxxs/Cluttered-bucket)
 - [zhoujin7/tomato](https://github.com/zhoujin7/tomato)
-- [HCLonely/my-scoop-bucket](https://github.com/HCLonely/my-scoop-bucket)
 - [Weidows-projects/scoop-3rd](https://github.com/Weidows-projects/scoop-3rd)
 - [hermanjustnu/scoop-emulators](https://github.com/hermanjustnu/scoop-emulators)
 - [everyx/scoop-bucket](https://github.com/everyx/scoop-bucket)
