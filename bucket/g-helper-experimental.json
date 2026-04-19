@@ -13,6 +13,7 @@
       "hash": "68751adad432e0156a9f9049a4dfc2c4fb1b73c8e75a67c4a737950bea6174e0"
     }
   },
+  "pre_install": "if (!(is_admin)) { throw 'Admin privileges are required.' }",
   "post_install": [
     "if (Test-Path $env:APPDATA\\GHelper) {",
     "    Copy-Item -Path $env:APPDATA\\GHelper\\* -Destination \"$persist_dir\\data\" -Force -Recurse",
@@ -23,7 +24,7 @@
     "    Remove-Item $env:ProgramData\\GHelper -Force -Recurse",
     "}",
     "New-Item -ItemType Junction -Path $env:APPDATA\\GHelper -Target $persist_dir\\data | Out-Null",
-    "New-Item -ItemType Junction -Path $env:APPDATA\\GHelper -Target $persist_dir\\backup | Out-Null"
+    "New-Item -ItemType Junction -Path $env:ProgramData\\GHelper -Target $persist_dir\\backup | Out-Null"
   ],
   "uninstaller": {
     "script": "Remove-Item $env:APPDATA\\GHelper -Force -Recurse"
