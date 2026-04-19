@@ -116,6 +116,7 @@ export const CONFIG = {
     `Deide/deide-bucket`,
     `echoiron/echo-scoop`,
     `tetradice/scoop-iyokan-jp`,
+    `Arama120517/scoop-bucket`,
 
     // `kkzzhizhou/scoop-apps`, // 抓其他仓库自动同步【会将 todo、deprecated 的都抓进来】
     // `anderlli0053/DEV-tools`, // low quality
