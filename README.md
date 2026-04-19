@@ -228,6 +228,7 @@ scoop bucket add spc https://gitee.com/wlzwme/scoop-proxy-cn.git
 - [Deide/deide-bucket](https://github.com/Deide/deide-bucket)
 - [echoiron/echo-scoop](https://github.com/echoiron/echo-scoop)
 - [tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
+- [Arama120517/scoop-bucket](https://github.com/Arama120517/scoop-bucket)
 
 ## 声明
 

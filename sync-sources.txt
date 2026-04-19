@@ -4527,6 +4527,7 @@ bucket\fylepad.json, ScoopInstaller/Extras, 1
 bucket\fysty.json, ScoopInstaller/Extras, 1
 bucket\fzf.json, ScoopInstaller/Main, 1
 bucket\g-assist.json, ScoopInstaller/Extras, 1
+bucket\g-helper-experimental.json, Arama120517/scoop-bucket, 1
 bucket\g-helper.json, ScoopInstaller/Extras, 1
 bucket\g-np.json, batkiz/backit, 1
 bucket\g.json, ScoopInstaller/Main, 1
@@ -6686,6 +6687,7 @@ bucket\mongosh.json, ScoopInstaller/Extras, 0
 bucket\monit-portable.json, DoveBoy/Apps, 1
 bucket\monit.json, DoveBoy/Apps, 1
 bucket\monitor-switcher.json, starise/Scoop-Confetti, 0
+bucket\monitorian.json, aoisummer/scoop-bucket, 1
 bucket\monitorinfoview.json, ScoopInstaller/Nirsoft, 0
 bucket\monitorprofileswitcher.json, ScoopInstaller/Extras, 0
 bucket\mono.json, ScoopInstaller/Main, 0
