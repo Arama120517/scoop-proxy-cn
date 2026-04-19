@@ -7,9 +7,9 @@ jobs:
     name: PullRequestHandler
     runs-on: windows-latest
     steps:
-    - uses: actions/checkout@main
+    - uses: actions/checkout@0c366fd6a839edf440554fa01a7085ccba70ac98 # main
     - name: PullRequestHandler
-      uses: ScoopInstaller/GithubActions@main
+      uses: ScoopInstaller/GithubActions@162fa9fe9ee81ec7407ba46bc732e211085b552e # main
       if: startsWith(github.event.comment.body, '/verify')
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
