@@ -62,7 +62,6 @@ export const CONFIG = {
     `TheRandomLabs/Scoop-Spotify`,
     `Paxxs/Cluttered-bucket`,
     `zhoujin7/tomato`,
-    `HCLonely/my-scoop-bucket`,
     `Weidows-projects/scoop-3rd`,
     `hermanjustnu/scoop-emulators`,
     `everyx/scoop-bucket`,

@@ -148,7 +148,7 @@ async function gitCommit() {
     `git config user.email "41898282+github-actions[bot]@users.noreply.github.com"`,
     `git add --all`,
     `git commit -m "Updated at ${new Date().toISOString()}"`,
-    `git push`,
+    `git push | true`,
   ];
 
   for (const cmd of cmds) execSync(cmd, { encoding: 'utf8', maxBuffer: 1024 * 1024 * 100 });
