@@ -1,16 +1,16 @@
 {
-  "version": "b8838",
+  "version": "b8840",
   "description": "Inference of LLaMA model in pure C/C++ (CPU version)",
   "homepage": "https://github.com/ggml-org/llama.cpp",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://v6.gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b8838/llama-b8838-bin-win-cpu-x64.zip",
-      "hash": "211da02840bec7a616bc1b6fb646041b618ae2649a62fd6886349d8b6df9774e"
+      "url": "https://v6.gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b8840/llama-b8840-bin-win-cpu-x64.zip",
+      "hash": "29f020e87cef66f978f19d72ab9306edad19237a85f02bcc53555196c4ee5baa"
     },
     "arm64": {
-      "url": "https://v6.gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b8838/llama-b8838-bin-win-cpu-arm64.zip",
-      "hash": "bb6b3e9e893ed40dca449bb70dc889d152e6e9b9721080f3bd7a931aeaf271ff"
+      "url": "https://v6.gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b8840/llama-b8840-bin-win-cpu-arm64.zip",
+      "hash": "52c76ff94f79fdf94d55e6dde212710346fc7e9778c6120607f87c3e12420d6e"
     }
   },
   "bin": [
