@@ -183,60 +183,60 @@ function updateInstallps1() {
 }
 
 /** 更新 sync 分支 */
-function toSyncBranch() {
-  const ghproxyURL = `${CONFIG.ghproxy}/https://`;
-  const cacheSyncDir = path.resolve('cache/sync-branch');
+// function toSyncBranch() {
+//   const ghproxyURL = `${CONFIG.ghproxy}/https://`;
+//   const cacheSyncDir = path.resolve('cache/sync-branch');
 
-  const syncFileToCache = (src) => {
-    const filepath = path.resolve(CONFIG.rootDir, src);
-    const cacheFilepath = path.resolve(cacheSyncDir, filepath.replace(CONFIG.rootDir, '').slice(1));
-    let content = fs.readFileSync(filepath, 'utf8');
+//   const syncFileToCache = (src) => {
+//     const filepath = path.resolve(CONFIG.rootDir, src);
+//     const cacheFilepath = path.resolve(cacheSyncDir, filepath.replace(CONFIG.rootDir, '').slice(1));
+//     let content = fs.readFileSync(filepath, 'utf8');
 
-    if (content.includes(ghproxyURL)) {
-      content = content.replaceAll(ghproxyURL, 'https://');
-      logger.debug('更新文件：', color.greenBright(filepath));
-    }
+//     if (content.includes(ghproxyURL)) {
+//       content = content.replaceAll(ghproxyURL, 'https://');
+//       logger.debug('更新文件：', color.greenBright(filepath));
+//     }
 
-    mkdirp(path.dirname(cacheFilepath));
-    fs.writeFileSync(cacheFilepath, content, 'utf8');
-  };
-  const syncToCache = (dirname) => {
-    if (Array.isArray(dirname)) return dirname.forEach(d => syncToCache(d));
+//     mkdirp(path.dirname(cacheFilepath));
+//     fs.writeFileSync(cacheFilepath, content, 'utf8');
+//   };
+//   const syncToCache = (dirname) => {
+//     if (Array.isArray(dirname)) return dirname.forEach(d => syncToCache(d));
 
-    const dirpath = path.resolve(CONFIG.rootDir, dirname);
+//     const dirpath = path.resolve(CONFIG.rootDir, dirname);
 
-    if (fs.statSync(dirpath).isFile()) {
-      syncFileToCache(dirpath);
-    } else {
-      fs.readdirSync(dirpath).forEach(fname => {
-        const filepath = path.resolve(dirpath, fname);
+//     if (fs.statSync(dirpath).isFile()) {
+//       syncFileToCache(dirpath);
+//     } else {
+//       fs.readdirSync(dirpath).forEach(fname => {
+//         const filepath = path.resolve(dirpath, fname);
 
-        if (fs.statSync(filepath).isDirectory()) {
-          syncToCache(path.resolve(dirpath, fname));
-        } else {
-          syncFileToCache(filepath);
-        }
-      });
-    }
-  };
+//         if (fs.statSync(filepath).isDirectory()) {
+//           syncToCache(path.resolve(dirpath, fname));
+//         } else {
+//           syncFileToCache(filepath);
+//         }
+//       });
+//     }
+//   };
 
-  const needSync = ['bucket', 'scripts', 'sync-sources.txt', 'README.md', '.github'];
-  syncToCache(needSync);
+//   const needSync = ['bucket', 'scripts', 'sync-sources.txt', 'README.md', '.github'];
+//   syncToCache(needSync);
 
-  execSync(`git fetch --all && git checkout -b sync origin/sync || git checkout sync`);
+//   execSync(`git fetch --all && git checkout -b sync origin/sync || git checkout sync`);
 
-  needSync.forEach(d => rmrf(d));
+//   needSync.forEach(d => rmrf(d));
 
-  fs.cpSync(cacheSyncDir, '.', { recursive: true, force: true });
+//   fs.cpSync(cacheSyncDir, '.', { recursive: true, force: true });
 
-  gitCommit();
-}
+//   gitCommit();
+// }
 
 async function sync() {
-  if (CONFIG.argv.includes('--to-sync-branch')) {
-    toSyncBranch();
-    return;
-  }
+//   if (CONFIG.argv.includes('--to-sync-branch')) {
+//     toSyncBranch();
+//     return;
+//   }
 
   const stats = {
     sync: { bucket: 0, scripts: 0 },
@@ -272,7 +272,7 @@ async function sync() {
 
   updateReadme();
   gitCommit();
-  toSyncBranch();
+//   toSyncBranch();
 
   const fixedCount = [...destFilesCache.values()].filter(d => d.fixed).length;
   logger.info('Done!', `Total: ${destFilesCache.size}, Fixed: ${fixedCount}`, stats);
