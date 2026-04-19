@@ -20,9 +20,6 @@
     "js",
     "github-actions"
   ],
-  "managerFilePatterns": [
-    "/(?:^|\/).github\/package.json$/"
-  ],
   "packageRules": [
     {
       "matchUpdateTypes": [
