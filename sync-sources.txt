@@ -5417,7 +5417,7 @@ bucket/inxunoffice.json, ygguorun/scoop-bucket, 0
 bucket/iobit-advanced-system-care-free.json, DoveBoy/Apps, 0
 bucket/iobit-software-updater.json, DoveBoy/Apps, 0
 bucket/iobit-system-information.json, DoveBoy/Apps, 0
-bucket/iobit-undelete.json, chawyehsu/dorado, 0
+bucket/iobit-undelete.json, DoveBoy/Apps, 0
 bucket/iobit-uninstaller.json, DoveBoy/Apps, 0
 bucket/iobit-unlocker.json, chawyehsu/dorado, 0
 bucket/iobitdriverbooster.json, echoiron/echo-scoop, 0
@@ -6983,7 +6983,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 1
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 1
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -7611,7 +7611,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
