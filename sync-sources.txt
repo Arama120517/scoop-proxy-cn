@@ -2169,7 +2169,7 @@ bucket/anx-reader.json, ScoopInstaller/Extras, 1
 bucket/anxreader-portable.json, DoveBoy/Apps, 1
 bucket/anxreader.json, DoveBoy/Apps, 1
 bucket/any-code.json, ScoopInstaller/Extras, 1
-bucket/any-listen-desktop-win7.json, DoveBoy/Apps, 1
+bucket/any-listen-desktop-legacy.json, DoveBoy/Apps, 1
 bucket/any-listen-desktop.json, DoveBoy/Apps, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
