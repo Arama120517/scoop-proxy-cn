@@ -2557,7 +2557,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibili.json, chawyehsu/dorado, 1
@@ -6525,12 +6525,18 @@ bucket/migrated/gut.json, aliesbelik/poldi, 1
 bucket/migrated/hopp-cli.json, aliesbelik/poldi, 1
 bucket/migrated/jaq.json, aliesbelik/poldi, 1
 bucket/migrated/jc.json, aliesbelik/poldi, 1
+bucket/migrated/jnv.json, aliesbelik/poldi, 1
 bucket/migrated/jo.json, aliesbelik/poldi, 1
+bucket/migrated/karing.json, aliesbelik/poldi, 1
 bucket/migrated/lazysql.json, aliesbelik/poldi, 1
+bucket/migrated/lazyssh.json, aliesbelik/poldi, 1
 bucket/migrated/mqtt-cli.json, aliesbelik/poldi, 1
+bucket/migrated/nbping.json, aliesbelik/poldi, 1
 bucket/migrated/octosql.json, aliesbelik/poldi, 1
 bucket/migrated/oha.json, aliesbelik/poldi, 1
 bucket/migrated/ov.json, aliesbelik/poldi, 1
+bucket/migrated/rainfrog.json, aliesbelik/poldi, 1
+bucket/migrated/resterm.json, aliesbelik/poldi, 1
 bucket/migrated/restfox.json, aliesbelik/poldi, 1
 bucket/migrated/riff.json, aliesbelik/poldi, 1
 bucket/migrated/sshs.json, aliesbelik/poldi, 1
@@ -6984,7 +6990,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 1
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 1
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -10272,6 +10278,7 @@ bucket/trdsql.json, aliesbelik/poldi, 1
 bucket/trdsqlCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/tre-command.json, ScoopInstaller/Main, 1
 bucket/tre.json, MCOfficer/scoop-bucket, 1
+bucket/tredis.json, aliesbelik/poldi, 1
 bucket/tree-sitter.json, ScoopInstaller/Main, 1
 bucket/tree.json, cderv/r-bucket, 0
 bucket/treeline.json, amorphobia/siku, 1
