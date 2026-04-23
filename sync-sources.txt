@@ -3160,7 +3160,7 @@ bucket/composer.json, ScoopInstaller/Main, 0
 bucket/composer1.json, ScoopInstaller/Versions, 0
 bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
-bucket/comrak.json, iquiw/scoop-bucket, 1
+bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
 bucket/concourse-fly.json, ScoopInstaller/Main, 1
@@ -4763,6 +4763,7 @@ bucket/glow.json, ScoopInstaller/Main, 1
 bucket/glslang-nightly.json, ScoopInstaller/Versions, 1
 bucket/glslang.json, ScoopInstaller/Main, 1
 bucket/glslviewer.json, ScoopInstaller/Main, 1
+bucket/gltfpack.json, ScoopInstaller/Main, 1
 bucket/gluon-openjfx-jmods-ea.json, ScoopInstaller/Java, 0
 bucket/gluon-openjfx-jmods.json, ScoopInstaller/Java, 0
 bucket/gluon-openjfx-monocle-sdk-ea.json, ScoopInstaller/Java, 0
@@ -5930,6 +5931,7 @@ bucket/lazpaint.json, ScoopInstaller/Extras, 1
 bucket/lazy-posh-git.json, ScoopInstaller/Extras, 1
 bucket/lazydocker.json, ScoopInstaller/Main, 1
 bucket/lazygit.json, ScoopInstaller/Extras, 1
+bucket/lazyjira.json, aliesbelik/poldi, 1
 bucket/lazysql.json, ScoopInstaller/Extras, 1
 bucket/lazyssh.json, ScoopInstaller/Main, 1
 bucket/lazyworktree.json, aliesbelik/poldi, 1
