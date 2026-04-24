@@ -4634,6 +4634,7 @@ bucket/getjpegs.json, rasa/scoops, 1
 bucket/getnir.json, ScoopInstaller/Nirsoft, 0
 bucket/gettext.json, ScoopInstaller/Main, 1
 bucket/gg.json, ScoopInstaller/Extras, 1
+bucket/ggsql.json, cderv/r-bucket, 1
 bucket/gh-dash.json, littleli/Scoop-littleli, 1
 bucket/gh.json, ScoopInstaller/Main, 1
 bucket/ghc96.json, iquiw/scoop-bucket, 0
@@ -4780,7 +4781,7 @@ bucket/gn.json, ScoopInstaller/Versions, 0
 bucket/gnirehtet.json, ScoopInstaller/Main, 1
 bucket/gns3.json, DoveBoy/Apps, 1
 bucket/gnucash.json, ScoopInstaller/Extras, 1
-bucket/gnupg-np.json, chawyehsu/dorado, 0
+bucket/gnupg-np.json, DoveBoy/Apps, 0
 bucket/gnupg-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/gnupg.json, ScoopInstaller/Main, 0
 bucket/gnupg1.json, ScoopInstaller/Main, 0
@@ -10963,6 +10964,7 @@ bucket/windows-update-manager.json, naderi/scoop-bucket, 1
 bucket/windows-update-viewer.json, naderi/scoop-bucket, 1
 bucket/windows-virtualdesktop-helper.json, ScoopInstaller/Extras, 1
 bucket/windows11-classic-context-menu.json, ScoopInstaller/Extras, 0
+bucket/windows11-context-menu-manager.json, ScoopInstaller/Extras, 1
 bucket/windows95.json, ScoopInstaller/Extras, 1
 bucket/windowscleaner.json, DoveBoy/Apps, 1
 bucket/windowsdesktop-runtime-10.0.json, ScoopInstaller/Versions, 0
